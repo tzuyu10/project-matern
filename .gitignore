@@ -1,0 +1,18 @@
+node_modules/
+.next/
+out/
+tmp/
+*.tsbuildinfo
+.env*
+!.env.example
+.npm-cache/
+.source-backup/
+.vercel/
+# Local development notes and source material; only optimized media is deployed.
+AGENTS.md
+CLAUDE.md
+scripts/
+public/assets/
+public/images/topic-placeholder.svg
+public/images/mother-placeholder.svg
+public/media/brand-logo-stacked.webp

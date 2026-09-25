@@ -1,0 +1,61 @@
+.card {
+  height: 370px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--blush);
+  transition: border-color .25s ease, box-shadow .25s ease;
+}
+.link { position: relative; display: block; width: 100%; height: 100%; overflow: hidden; }
+.link:focus-visible { outline: 3px solid var(--rose); outline-offset: -5px; border-radius: 18px; }
+.art {
+  object-fit: contain;
+  padding: 16px 16px 84px;
+  transition: transform .35s ease;
+}
+.heading { position: absolute; inset: auto 22px 22px; color: var(--berry); font-size: 19px; line-height: 1.3; font-weight: 650; background: transparent; transition: opacity .25s ease; }
+.details {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 26px 22px;
+  background: linear-gradient(180deg, rgba(72, 19, 40, .12), rgba(72, 19, 40, .94));
+  color: white;
+  opacity: 0;
+  transition: opacity .25s ease;
+}
+.hoverTitle { font-size: 20px; font-weight: 650; line-height: 1.3; }
+.description { margin-top: 12px; color: #fff0f6; font-size: 16px; line-height: 1.5; }
+.action { display: flex; align-items: center; gap: 10px; margin-top: 18px; color: white; font-size: 14px; font-weight: 650; }
+.card:focus-within { border-color: var(--rose); box-shadow: 0 8px 24px #91345220; }
+.card:focus-within .art { transform: scale(1.045); }
+.card:focus-within .heading { opacity: 0; }
+.card:focus-within .details { opacity: 1; }
+@media (hover: hover) {
+  .card:hover { border-color: var(--rose); box-shadow: 0 8px 24px #91345220; }
+  .card:hover .art { transform: scale(1.045); }
+  .card:hover .heading { opacity: 0; }
+  .card:hover .details { opacity: 1; }
+}
+@media (max-width: 760px) {
+  .card { height: 300px; }
+  .art { padding-bottom: 72px; }
+  .heading { left: 18px; right: 18px; font-size: 18px; }
+  .details { padding: 24px 18px; }
+  .hoverTitle { font-size: 18px; }
+}
+@media (max-width: 420px) {
+  .card { height: 250px; border-radius: 14px; }
+  .art { padding: 10px 8px 76px; }
+  .heading { left: 12px; right: 12px; bottom: 14px; font-size: 16px; line-height: 1.25; }
+  .details { padding: 16px 12px; }
+  .hoverTitle { font-size: 16px; line-height: 1.25; }
+  .description { display: -webkit-box; margin-top: 8px; overflow: hidden; -webkit-box-orient: vertical; -webkit-line-clamp: 3; font-size: 14px; line-height: 1.4; }
+  .action { margin-top: 10px; font-size: 13px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .card, .art, .heading, .details { transition: none; }
+}

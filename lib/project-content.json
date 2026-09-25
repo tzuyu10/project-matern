@@ -1,0 +1,3164 @@
+{
+  "source": "Content - Project M.A.T.E.R.N..docx",
+  "about": [
+    {
+      "type": "heading",
+      "text": "Kaalaman para sa mas handa at mas maalam na Ina.",
+      "italic": true
+    },
+    {
+      "type": "heading",
+      "text": "Para sa mga ilaw ng tahanan, kaalaman ang puhunan.",
+      "italic": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Ang “Project M.A.T.E.R.N.: Maternal Awareness Through Effective Resource and Nursing Education” ay isang Plan-Do-Study-Act (PDSA) Project na binuo ng mga mag-aaral ng nursing ng Trinity University of Asia bilang bahagi ng asignaturang Nursing Leadership and Management.",
+      "italic": false
+    },
+    {
+      "type": "paragraph",
+      "text": "Layunin ng aming proyekto na magbigay ng kapaki-pakinabang na impormasyon tungkol sa kalusugan ng ina para sa mga buntis. Sa pamamagitan ng website na ito, nais naming makatulong sa mga ina na magkaroon ng sapat na kaalaman at maging mas handa sa bawat yugto ng kanilang pagbubuntis. Bilang mga mag-aaral ng nursing, nais naming gamitin ang aming kaalaman upang makatulong sa pagbibigay ng health education na madaling maunawaan at maaaring maging gabay ng mga ina sa kanilang paglalakbay.",
+      "italic": false
+    },
+    {
+      "type": "heading",
+      "text": "Kilalanin ang Aming Team",
+      "italic": false
+    },
+    {
+      "type": "paragraph",
+      "text": "Reese Ashley M. Dumlao",
+      "italic": false
+    },
+    {
+      "type": "paragraph",
+      "text": "Kristine Joy L. Engalan",
+      "italic": false
+    },
+    {
+      "type": "paragraph",
+      "text": "Hanie Lovelle A. Enriquez",
+      "italic": false
+    },
+    {
+      "type": "paragraph",
+      "text": "Lian Jae L. Ereño",
+      "italic": false
+    },
+    {
+      "type": "paragraph",
+      "text": "Ingrid Adrienne A. Erguiza",
+      "italic": false
+    },
+    {
+      "type": "paragraph",
+      "text": "Koby Breyvon L. Erguiza",
+      "italic": false
+    },
+    {
+      "type": "paragraph",
+      "text": "Faustine Setiel Erive",
+      "italic": false
+    },
+    {
+      "type": "paragraph",
+      "text": "Seann Oscer S. Estudillo",
+      "italic": false
+    },
+    {
+      "type": "paragraph",
+      "text": "Shea F. Fiedalino",
+      "italic": false
+    },
+    {
+      "type": "paragraph",
+      "text": "Kami ay mga mga fourth-year nursing student na nagsisikap na maisulong ang kaalaman, kamalayan, at empowerment para sa mga ina sa pamamagitan ng madaling ma-access at makabuluhang edukasyong pangkalusugan.",
+      "italic": false
+    },
+    {
+      "type": "heading",
+      "text": "Team Project M.A.T.E.R.N.",
+      "italic": true
+    }
+  ],
+  "topics": [
+    {
+      "slug": "prenatal-care",
+      "title": "Prenatal Care",
+      "description": "Kabilang ang regular na prenatal check-up, screening, at iba pang kinakailangang eksaminasyon.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "Overview",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Ang prenatal care ay ang mga check-up sa yugto ng pagbubuntis upang mapanatiling malusog ang ina at ang sanggol sa sinapupunan. Kabilang sa mga check-up na ito ang physical exam at mga routine test upang masubaybayan ang kalusugan at maagang matukoy ang anumang problema."
+            }
+          ]
+        },
+        {
+          "id": "first",
+          "title": "First trimester",
+          "blocks": [
+            {
+              "type": "image",
+              "index": 1
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo retrieved from: Grateful Beginnings Medical and Lying In Clinic-Mamatid Branch (2026)"
+            },
+            {
+              "type": "heading",
+              "text": "Kailan ang check-up?",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Ika-0 hanggang ika-13 na linggo; ayon sa DOH guidelines, kailangan makapagpa-check-up nang kahit isang beses sa unang tatlong buwan ng pagbubuntis."
+            },
+            {
+              "type": "heading",
+              "text": "Mga karaniwang itinatanong sa check-up:",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Petsa ng huling regla o Last Menstrual Period (LMP) para malaman ang due date, mga nakaraang pagbubuntis, paraan ng pagpanganak, at karanasan sa pagpapasuso"
+            },
+            {
+              "type": "listItem",
+              "text": "Nakaraang miscarriage, maagang pagpanganak (premature), o mga komplikasyon sa pagbubuntis"
+            },
+            {
+              "type": "listItem",
+              "text": "Mga nakaraang operasyon, sakit noong bata (at mga bakuna), at mga pampamilyang kontraseptibo"
+            },
+            {
+              "type": "listItem",
+              "text": "May umiiral bang sakit tulad ng hika, altapresyon, diabetes, o sakit sa puso"
+            },
+            {
+              "type": "listItem",
+              "text": "Dami ng iniinom na kape o alak, at paggamit ng sigarilyo o tabako"
+            },
+            {
+              "type": "listItem",
+              "text": "Edad, lahi, at ethnic background"
+            },
+            {
+              "type": "listItem",
+              "text": "Mga sakit sa pamilya tulad ng diabetes, sakit sa puso, TB, hepatitis, o mga pamana at genetic na kondisyon"
+            },
+            {
+              "type": "listItem",
+              "text": "Kalagayan ng isip (mental health), emosyonal na kakayahang mag-cope, kaligtasan laban sa pang-aabuso o karahasan, at paggamit ng bawal na gamot."
+            },
+            {
+              "type": "heading",
+              "text": "Physical assessment:",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Maraming ina ang walang kamakailang check-up bago mabuntis, kaya mahalaga ang buong pagsusuri sa katawan upang matukoy ang mga hindi pa nadidiskubreng sakit at magkaroon ng batayan (baseline) para sa pag-aalaga sa ina at sanggol sa sinapupunan."
+            },
+            {
+              "type": "heading",
+              "text": "Vital signs",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Presyon ng dugo o BP",
+                  "Babala: Ang 140/90 mmHg o mas mataas ay maaaring senyales ng chronic hypertension o preeclampsia (altapresyon sa pagbubuntis) at nangangailangan ng karagdagang pagsusuri."
+                ],
+                [
+                  "Tibok ng puso o pulse rate",
+                  "Normal: 60 – 90 bpm (beats per minute)"
+                ],
+                [
+                  "Paghinga o Respirations",
+                  "Karaniwang nasa 16 hanggang 24 na paghinga bawat minuto habang buntis."
+                ],
+                [
+                  "Temperatura",
+                  "Normal: 36.6°C – 37.6°C (97.8°F – 99.6°F). / Babala: Ang lagnat ay maaaring senyales ng impeksyon at kailangan ng agad na gamot o pangangalaga ng doktor."
+                ]
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Mga Karaniwang Test at Screening",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Complete Blood Count (CBC): Pagsusuri sa dugo para sa anemia o impeksyon."
+            },
+            {
+              "type": "listItem",
+              "text": "Blood Type at Rh Factor: Para malaman kung katugma ang dugo ng ina at sanggol sa sinapupunan."
+            },
+            {
+              "type": "listItem",
+              "text": "Infection Screening: Pagsusuri sa mga impeksyon na maaaring maipasa sa sanggol sa sinapupunan."
+            },
+            {
+              "type": "listItem",
+              "text": "Urine Tests: Pagsusuri sa ihi para sa UTI, protina, o asukal."
+            },
+            {
+              "type": "listItem",
+              "text": "Ultrasound: Pag-check sa paglaki, posisyon, at kalagayan ng sanggol sa sinapupunan."
+            },
+            {
+              "type": "heading",
+              "text": "Nutrisyon at Mga Bitamina",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Folic Acid: Para sa malusog na pagbuo ng utak at spine ng sanggol sa sinapupunan."
+            },
+            {
+              "type": "listItem",
+              "text": "Iron: Nilalabanan ang anemia (mga pagkain: sitaw, monggo, madadahong gulay, at lean meat)."
+            },
+            {
+              "type": "listItem",
+              "text": "Calcium: Para sa matibay na buto ng ina at sanggol sa sinapupunan (mga pagkain: gatas, yogurt, keso, at fortified foods)."
+            },
+            {
+              "type": "listItem",
+              "text": "Protein: Para sa paglaki ng mga tissue ng sanggol sa sinapupunan (mga pagkain: itlog, isda, mani, at manok)."
+            },
+            {
+              "type": "heading",
+              "text": "Mga Dapat Iwasan at Pag-iingat sa Pagkain",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "image",
+              "index": 2
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo retrieved from: Northline Women’s Health Center (2023)"
+            },
+            {
+              "type": "listItem",
+              "text": "Iwasan: Hilaw o hindi gaanong luto na karne, itlog, at seafood."
+            },
+            {
+              "type": "listItem",
+              "text": "Kalinisan: Maghugas ng kamay at hugasang mabuti ang mga pagkain. Ihiwalay ang hilaw na pagkain sa lutong pagkain."
+            },
+            {
+              "type": "heading",
+              "text": "Pamumuhay o Lifestyle",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Pahinga: Magkaroon ng sapat na tulog at pahinga araw-araw."
+            },
+            {
+              "type": "listItem",
+              "text": "Ehersisyo: Gumawa ng ligtas at katamtamang ehersisyo kung walang bawal mula sa doktor."
+            },
+            {
+              "type": "listItem",
+              "text": "Gamot at Supplements: Huwag uminom ng anumang gamot, bitamina, o herbal nang walang payo ng doktor o midwife."
+            }
+          ]
+        },
+        {
+          "id": "second",
+          "title": "Second Trimester",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Ilang linggo",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Kailan ang check-up?: ika-14 hanggang ika-27 na linggo; ayon sa DOH guidelines, kailangan makapagpa-check-up nang hindi bababa sa o hindi bababa sa 2 beses sa pangalawang trimester ng pagbubuntis."
+            },
+            {
+              "type": "heading",
+              "text": "Mga Karaniwang Test at Screening",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Isang beses sa kahit aling dalawang pagbisita: pelvic ultrasound"
+            },
+            {
+              "type": "heading",
+              "text": "Pagbabakuna",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Tetanus Vaccine, kung kinakailangan"
+            },
+            {
+              "type": "listItem",
+              "text": "1st dose ika-20 hanggang ika-36 na linggo"
+            },
+            {
+              "type": "heading",
+              "text": "Mga gamot o bitamina",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Iron at Folic Acid (IFA) o Multiple Micronutrient (MMS)"
+            },
+            {
+              "type": "listItem",
+              "text": "Deworming"
+            },
+            {
+              "type": "heading",
+              "text": "Mga karaniwang pisikal na pagbabago sa katawan",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "image",
+              "index": 3
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo retrieved from: Luukkonen, M. (2022, December 20)."
+            },
+            {
+              "type": "listItem",
+              "text": "Ika-13 hanggang ika-16 na linggo: Maaaring maramdaman ang paggalaw ng fetus sa ika-16 na linggo; mayroong unang gatas (colostrum); tumataas ang dami ng dugo."
+            },
+            {
+              "type": "listItem",
+              "text": "Ika-17 hanggang ika-20 na linggo: maaaring madinig ang tibok ng puso gamit ang fetoscope; Tumataas ang pangingitim o kulay ng balat (skin pigmentation); Nangingitim ang mga paligid ng suso (areola); pangingitim ng linya sa gitna ng tiyan (linea nigra); Nararamdaman sa paghipo ang Braxton Hicks contraction (mga pagsakit o pagpapanigas ng tiyan); Ang itaas na bahagi ng bahay-bata ay nasa antas ng pusod sa humigit-kumulang ika-20 linggo"
+            },
+            {
+              "type": "listItem",
+              "text": "Ika-21 hanggang ika-24 na linggo: Mas mataas na peligro ng pagkakaroon ng varicose veins at UTI (mga impeksyon sa daanan ng ihi) (UNICEF, 2026)."
+            },
+            {
+              "type": "listItem",
+              "text": "Dapat mag-ehersisyo nang magaan o hindi masyadong matinding ehersisyo"
+            },
+            {
+              "type": "listItem",
+              "text": "Paghiga nang nakatagilid sa kaliwa - upang maiwasan ang supine hypotension (pagbaba ng presyon ng dugo habang nakahiga nang patag)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Magpakonsulta sa doktor kung:"
+            },
+            {
+              "type": "listItem",
+              "text": "Matinding pamimilipit o sakit sa tiyan, mataas na lagnat (>38° C), pagpapadugo o paglabas ng likido sa puwerta, mabahong discharge sa puwerta, biglaan o labis na pamamaga, masakit na pag-ihi, matinding sakit ng ulo, pagsusuka ng dugo, hirap sa paghinga, mabilis o malakas na pagtibok ng puso, at malabo na paningin (UNICEF, 2026)."
+            }
+          ]
+        },
+        {
+          "id": "third",
+          "title": "Third Trimester",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Ilang linggo",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Kailan ang check-up?: ika-28 hanggang ika-40 na linggo; kailangan makapagpa-check-up nang hindi bababa sa 5 beses sa huling trimester ng pagbubuntis ayon sa DOH guidelines."
+            },
+            {
+              "type": "heading",
+              "text": "Mga karaniwang itinatanong o sinusuri:",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Blood pressure"
+            },
+            {
+              "type": "listItem",
+              "text": "Timbang"
+            },
+            {
+              "type": "listItem",
+              "text": "Fundal height"
+            },
+            {
+              "type": "listItem",
+              "text": "Bilis ng pagtibok ng puso ng baby o Fetal heart rate"
+            },
+            {
+              "type": "listItem",
+              "text": "Posisyon ng baby o Fetal position"
+            },
+            {
+              "type": "listItem",
+              "text": "Paggalaw ng baby o Fetal movement"
+            },
+            {
+              "type": "listItem",
+              "text": "Mga nararamdaman ng ina"
+            },
+            {
+              "type": "heading",
+              "text": "Mga karaniwang tests at screenings",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Isinasagawa nang kahit isang beses sa alinman sa 5 check-up sa ika-3 trimester"
+            },
+            {
+              "type": "listItem",
+              "text": "Complete blood count (CBC)"
+            },
+            {
+              "type": "listItem",
+              "text": "Urinalysis"
+            },
+            {
+              "type": "listItem",
+              "text": "Pelvic ultrasound (pinakamainam sa ika-2 trimester)"
+            },
+            {
+              "type": "heading",
+              "text": "Mga bakuna",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Tetanus Vaccine, kung kinakailangan"
+            },
+            {
+              "type": "listItem",
+              "text": "Unang dose sa pagitan ng ika-27 hanggang ika-36 na linggo"
+            },
+            {
+              "type": "heading",
+              "text": "Mga dapat obserbahan at bantayan",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "image",
+              "index": 4
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo retrieved from: Flo Health (2020)"
+            },
+            {
+              "type": "listItem",
+              "text": "Parami o palakas na Braxton Hicks contractions (mga pekeng paghilab)"
+            },
+            {
+              "type": "listItem",
+              "text": "Dumaraming lumalabas na likido sa puwerta o Vaginal discharge"
+            },
+            {
+              "type": "listItem",
+              "text": "Paglabas ng kulay tsokolate o bahid-dugong cervical mucus"
+            },
+            {
+              "type": "listItem",
+              "text": "Pag-uumpisa ng pagbuka ng cervix"
+            },
+            {
+              "type": "listItem",
+              "text": "Nesting - biglaang paglakas ng resistensya o enerhiya; nangyayari 24 hanggang 48 oras bago magsimula ang totoong hilab"
+            },
+            {
+              "type": "heading",
+              "text": "Mga senyales ng banta o panganib (Danger signs)",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Pagdurugo sa puwerta na may kasama o walang pananakit"
+            },
+            {
+              "type": "listItem",
+              "text": "Patuloy na matinding sakit ng ulo"
+            },
+            {
+              "type": "listItem",
+              "text": "Patuloy o matinding pananakit ng tiyan o sa may ibaba ng dibdib (Epigastric pain)"
+            },
+            {
+              "type": "listItem",
+              "text": "Tuloy-tuloy na pagduduwal at pagsusuka"
+            },
+            {
+              "type": "listItem",
+              "text": "Mga senyales ng maagang paglabas ng sanggol sa sinapupunan (Preterm labor): Hilab ng sinapupunan, pamimilipit o cramps, patuloy o paulit-ulit na sakit sa ibabang bahagi ng likod, mabigat na pakiramdam sa balakang (pelvic pressure), at malabnaw na likidong lumalabas sa puwerta"
+            }
+          ]
+        },
+        {
+          "id": "references",
+          "title": "Reference:",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Mommy, complete your antenatal check-ups to ensure your pregnancy is safe. DOH CAR. (n.d.). https://caro.doh.gov.ph/%F0%9F%A4%B0mommy-complete-your-antenatal-check-ups-to-ensure-your-pregnancy-is-safe-%F0%9F%A9%BA/"
+            },
+            {
+              "type": "paragraph",
+              "text": "Murray, S. S., McKinney, E. S., Holub, K. S., & Jones, R. (2019). Foundations of Maternal-newborn and Women's Health Nursing. Elsevier."
+            },
+            {
+              "type": "paragraph",
+              "text": "UNICEF. (2026, July 22). Your second trimester guide. https://www.unicef.org/uzbekistan/en/stories/your-second-trimester-guide"
+            },
+            {
+              "type": "heading",
+              "text": "Image Sources",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Grateful Beginnings Medical and Lying In Clinic-Mamatid Branch. (2026). Mommy, huwag palampasin ang prenatal check-up! Ang regular na antenatal check-up ay mahalaga para masubaybayan ang kalagayan ni mommy [Image] [Facebook post]. Facebook. https://www.facebook.com/photo/?fbid=122117751093306388&set=a.122103483183306388"
+            },
+            {
+              "type": "paragraph",
+              "text": "Luukkonen, M. (2022, December 20). Body Image During Pregnancy: Is it Necessary to Lose the ‘Baby Weight’? Lola&Lykke. https://lolalykke.com/blogs/mamahood-manuals/body-image-during-pregnancy-is-it-necessary-to-lose-the-baby-weight?srsltid=AU7gw4VLDJoPoM0xjJ2n3z6OGNI13sUicy8IfH8BrxZw1D-Rr4Z3Jlvh"
+            },
+            {
+              "type": "paragraph",
+              "text": "Northline Women’s Health Center. (2023, November 9). Foods to avoid in pregnancy and Why. https://www.northlinewomenshealthcenter.com/patients/blog/foods-to-avoid-in-pregnancy"
+            },
+            {
+              "type": "paragraph",
+              "text": "Flo Health. (2020, October 7). Pregnant and feeling Alone: Actionable tips for fighting pregnancy loneliness. Flo.health - #1 Mobile Product For Women’s Health. https://flo.health/pregnancy/pregnancy-health/emotional-health/pregnant-and-feeling-alone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "childbirth",
+      "title": "Childbirth",
+      "description": "Proseso ng panganganak, mga pagpipilian sa panganganak, pain management, at paghahanda para sa panganganak.",
+      "sections": [
+        {
+          "id": "first",
+          "title": "First Trimester (1-3 months)",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Ano ang Nangyayari sa Unang Trimester?",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Sa unang trimester, nagsisimula ang maraming pagbabago sa katawan habang nabubuo at lumalaki ang sanggol. Mahalaga rin na magsimulang maghanda at matuto tungkol sa panganganak."
+            },
+            {
+              "type": "heading",
+              "text": "Paghahanda Para sa Panganganak",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Sa unang buwan ng pagbubuntis, mahalagang malaman ang mga pangunahing bagay tungkol sa panganganak at magsimulang maghanda."
+            },
+            {
+              "type": "heading",
+              "text": "Mga Dapat Paghandaan",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Alamin ang inaasahang petsa ng panganganak (due date)"
+            },
+            {
+              "type": "listItem",
+              "text": "Magkaroon ng regular na prenatal check-up"
+            },
+            {
+              "type": "listItem",
+              "text": "Alamin kung saan ligtas na manganganak at sino ang maaaring tumulong"
+            },
+            {
+              "type": "listItem",
+              "text": "Simulan ang pag-iipon para sa mga pangangailangan sa panganganak"
+            },
+            {
+              "type": "listItem",
+              "text": "Iwasan ang alak, sigarilyo, at ipinagbabawal na gamot"
+            },
+            {
+              "type": "heading",
+              "text": "Mga Pagbabago Sa Ina",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring makaranas ng pagduduwal, pagsusuka, pagkapagod, pagkahilo, at madalas na pag-ihi"
+            },
+            {
+              "type": "listItem",
+              "text": "Unti-unting nagbabago ang katawan upang suportahan ang paglaki ng sanggol"
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring magkaroon ng pagbabago sa pagkain, panlasa, at pang-amoy"
+            },
+            {
+              "type": "heading",
+              "text": "Prenatal Check-up / Pagpapatingin Sa Health Center",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Regular na magpatingin sa health center o healthcare provider upang masubaybayan ang kalagayan ng ina at sanggol"
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring magsimulang magplano kung saan at paano gustong manganak, kasama ang payo ng healthcare provider"
+            },
+            {
+              "type": "listItem",
+              "text": "Inumin ang mga bitamina at gamot na ibinigay o inirekomenda ng health worker"
+            },
+            {
+              "type": "listItem",
+              "text": "Sundin ang mga payo tungkol sa pagkain, pahinga, at pangangalaga sa sarili"
+            }
+          ]
+        },
+        {
+          "id": "second",
+          "title": "Second trimester (4-6 months)",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Ano ang Nangyayari sa Ikalawang Trimester?",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Sa ikalawang trimester, patuloy na lumalaki ang sanggol at mas kapansin-pansin ang mga pagbabago sa katawan ng ina. Dito rin maaaring magsimulang maghanda para sa panganganak."
+            },
+            {
+              "type": "heading",
+              "text": "Mga Pagbabago sa Ina",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Lumalaki ang tiyan at patuloy na tumataas ang timbang"
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring maramdaman ang paggalaw ng sanggol"
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring makaranas ng pananakit ng likod, pamumulikat, heartburn, at constipation"
+            },
+            {
+              "type": "heading",
+              "text": "Paglaki ng Sanggol",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Patuloy na lumalaki ang sanggol"
+            },
+            {
+              "type": "listItem",
+              "text": "Mas nagiging aktibo at mas madalas nang gumagalaw ang sanggol"
+            },
+            {
+              "type": "listItem",
+              "text": "Patuloy na nade-develop ang utak, buto, muscles, at nervous system ng sanggol"
+            },
+            {
+              "type": "heading",
+              "text": "Paghahanda para sa Panganganak",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Alamin ang mga paraan ng panganganak kasama ang healthcare provider"
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring pag-aralan ang tamang paghinga, relaxation, at pagbabago ng posisyon na maaaring makatulong sa labor"
+            },
+            {
+              "type": "listItem",
+              "text": "Pag-usapan sa healthcare provider ang mga posibleng paraan ng pagpapababa ng sakit habang nanganganak"
+            },
+            {
+              "type": "listItem",
+              "text": "Magpatuloy sa regular na prenatal check-up upang masubaybayan ang ina at sanggol"
+            },
+            {
+              "type": "heading",
+              "text": "Mahalagang Paalala",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Kumain ng masustansiya at uminom ng sapat na tubig"
+            },
+            {
+              "type": "listItem",
+              "text": "Iwasan ang alak, sigarilyo, at ipinagbabawal na gamot"
+            },
+            {
+              "type": "listItem",
+              "text": "Huwag basta uminom ng gamot o herbal products nang walang payo ng health worker"
+            }
+          ]
+        },
+        {
+          "id": "third",
+          "title": "Third trimester (7-9 months)",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Ano nga ba ang mga senyales na malapit ka nang manganak?",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "heading",
+              "text": "Braxton Hicks contractions",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring mas maging madalas at mas malakas."
+            },
+            {
+              "type": "heading",
+              "text": "Lightening",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Bumababa ang posisyon ng sanggol."
+            },
+            {
+              "type": "heading",
+              "text": "Increased vaginal secretions",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "heading",
+              "text": "Bloody show",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Cervical ripening na may pink o dark-red mucus."
+            },
+            {
+              "type": "heading",
+              "text": "Energy spurt/nesting",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "heading",
+              "text": "Weight loss",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "heading",
+              "text": "TRUE LABOR O FALSE LABOR?",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "heading",
+              "text": "True Labor",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Ang tunay na contractions ay regular, madalas, mahaba, at malakas na sanhi ng pagbuka ng cervix."
+            },
+            {
+              "type": "heading",
+              "text": "False Labor",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Ang pabago-bagong contractions ay walang makabuluhang progresibong pagbabago sa cervix."
+            },
+            {
+              "type": "heading",
+              "text": "Mga Komplikasyon sa Panganganak",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "heading",
+              "text": "Prolonged/Dysfunctional Labor",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Ang matagal na pag ire sa panganganak ay maaaring mangailangan ng patuloy na pag antabay sa kondisyon ng ina ng sanggol at ang sanggol mismo."
+            },
+            {
+              "type": "heading",
+              "text": "Premature Rupture of Membranes (PROM)",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Pagputok ng panubigan bago pa manganak"
+            },
+            {
+              "type": "heading",
+              "text": "Preterm Labor",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Maagang panganganak bago pa umabot ang sanggol sa 37 weeks."
+            },
+            {
+              "type": "heading",
+              "text": "Prolapsed Umbilical Cord",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Pagbaba ng umbilical cord na maaaring makaapekto sa sanggol."
+            },
+            {
+              "type": "heading",
+              "text": "Uterine Rupture",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Pagkapunit ng uterine wall na maaaring mag dulot ng malubhang pagdurugo o pagbabanta sa buhay ng sanggol o sa buntis."
+            },
+            {
+              "type": "heading",
+              "text": "Placental Abnormalities",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring magdulot ng malubhang pagdurugo dahil sa makapit na placenta sa uterine wall, malalim ang pwesto ng placenta sa uterine wall o kalapit na ng placenta ang iba pang organs sa katawan."
+            },
+            {
+              "type": "heading",
+              "text": "MAHALAGANG PAALALA",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Kung hindi sigurado o may nararamdamang kakaiba, huwag maghintay. Magpatingin agad sa health center o ospital."
+            },
+            {
+              "type": "listItem",
+              "text": "Mahalaga ang pagkilala sa mga sintomas ng pagbubuntis at pag-alam kung kailan dapat humingi ng propesyonal na tulong sa health center o ospital."
+            },
+            {
+              "type": "listItem",
+              "text": "Alamin kung ano ang mga dapat na inumin na gamot habang nagbubuntis at ang mga pinagbabawal habang nagbubuntis."
+            },
+            {
+              "type": "listItem",
+              "text": "Panatilihing masustansiya ang kainin at tiyaking nakakabuti ito sa buntis at sa bata."
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "PAALALA"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "references",
+          "title": "Reference:",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Image Sources",
+              "level": 3,
+              "italic": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "postnatal-care",
+      "title": "Postnatal Care",
+      "description": "Gabay tungkol sa pangangalaga pagkatapos manganak, pangangalaga sa sarili, pagpapasuso, at pag-aalaga sa bagong silang na sanggol.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "Overview",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Paghahanda Para sa Sarili Pagkatapos Manganak",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Asahan ang pagdurugo o lochia pagkatapos manganak at alamin kung ano ang normal at hindi normal."
+            },
+            {
+              "type": "listItem",
+              "text": "Panatilihing malinis ang sugat sa perineum o cesarean incision kung mayroon."
+            },
+            {
+              "type": "listItem",
+              "text": "Iwasan muna ang mabibigat na gawain at bigyan ng sapat na panahon ang katawan para makarekober."
+            },
+            {
+              "type": "listItem",
+              "text": "Uminom ng mga gamot, iron, o iba pang supplement ayon lamang sa payo ng healthcare provider."
+            },
+            {
+              "type": "listItem",
+              "text": "Dumalo sa nakatakdang postpartum check-up upang masuri ang paggaling ng ina."
+            },
+            {
+              "type": "heading",
+              "text": "Pangangalaga sa Ina",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Magpahinga at matulog nang sapat"
+            },
+            {
+              "type": "listItem",
+              "text": "Kumain ng masustansiya at uminom ng maraming tubig"
+            },
+            {
+              "type": "listItem",
+              "text": "Panatilihing malinis ang katawan at ang bahagi ng ari"
+            },
+            {
+              "type": "listItem",
+              "text": "Magpatingin sa health center o ospital para sa postnatal check-up"
+            },
+            {
+              "type": "heading",
+              "text": "Pagpapasuso",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Simulan ang pagpapasuso sa lalong madaling panahon pagkatapos manganak"
+            },
+            {
+              "type": "listItem",
+              "text": "Ang unang gatas na tinatawag na colostrum ay mahalaga para sa sanggol"
+            },
+            {
+              "type": "listItem",
+              "text": "Iwasang bigyan ng ibang pagkain o inumin ang sanggol maliban kung inirerekomenda ng health worker"
+            },
+            {
+              "type": "heading",
+              "text": "Pangangalaga sa Sanggol",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Panatilihing malinis at mainit ang sanggol"
+            },
+            {
+              "type": "listItem",
+              "text": "Tiyaking nakasususo nang maayos at regular"
+            },
+            {
+              "type": "listItem",
+              "text": "Panatilihing malinis at tuyo ang pusod"
+            },
+            {
+              "type": "listItem",
+              "text": "Sundin ang iskedyul ng bakuna at pagpapatingin ng sanggol"
+            },
+            {
+              "type": "heading",
+              "text": "Mga Senyales na Kailangan Magpatingin",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Malakas na pagdurugo"
+            },
+            {
+              "type": "listItem",
+              "text": "Mataas na lagnat"
+            },
+            {
+              "type": "listItem",
+              "text": "Matinding pananakit ng tiyan o ulo"
+            },
+            {
+              "type": "listItem",
+              "text": "Mabaho o kakaibang lumalabas sa ari"
+            },
+            {
+              "type": "listItem",
+              "text": "Hirap sa paghinga o biglang panghihina"
+            },
+            {
+              "type": "listItem",
+              "text": "Kung ang sanggol ay hindi dumedede, nahihirapang huminga, o sobrang antukin/hindi magising"
+            },
+            {
+              "type": "heading",
+              "text": "Kalusugang Pangkaisipan At Emosyonal",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Normal na makaranas ng pagbabago ng emosyon pagkatapos manganak, ngunit mahalagang humingi ng tulong kung ito ay matindi o hindi nawawala."
+            },
+            {
+              "type": "listItem",
+              "text": "Makipag-usap sa pamilya o healthcare provider kung nakararanas ng matinding lungkot, pag-aalala, hirap matulog, o kawalan ng gana."
+            },
+            {
+              "type": "listItem",
+              "text": "Humingi agad ng tulong kung may naiisip na saktan ang sarili o ang sanggol."
+            },
+            {
+              "type": "heading",
+              "text": "PAALALA",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Maghanda na bago manganak: alamin kung saan magpapatingin pagkatapos manganak, ihanda ang mga gamit ng ina at sanggol, at alamin ang tamang pagpapasuso at pangangalaga sa bagong silang na sanggol."
+            }
+          ]
+        },
+        {
+          "id": "references",
+          "title": "Reference:",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Image Sources",
+              "level": 3,
+              "italic": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "nutrition-lifestyle",
+      "title": "Nutrition & Lifestyle",
+      "description": "Wastong nutrisyon at mga inirerekomendang pagkain para sa mga buntis upang mapanatili ang kalusugan ng ina at sanggol.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "Overview",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Mahahalagang Sustansya sa Panahon ng Pagbubuntis",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Ayon sa Department of Health - National Nutrition Council, narito ang ilan sa mga pinakamahahalagang sustansya na kailangan ng buntis at ang mga pagkaing pinagkukunan ng mga ito:"
+            },
+            {
+              "type": "heading",
+              "text": "Calcium",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Mahalaga para sa pagbuo ng matibay na buto at ngipin ng sanggol. Kailangan ng buntis ng humigit-kumulang 1,200 mg bawat araw. Makakatulong ang pag-inom ng gatas at pagkain ng iba pang calcium-rich foods tulad ng yogurt, keso, tofu, at malalabay na gulay."
+            },
+            {
+              "type": "heading",
+              "text": "Iron",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Tumutulong sa pagdadala ng oxygen sa dugo, kabilang ang oxygen na kailangan ng sanggol. Makukuha sa mga lean red meat, tofu, kasoy, spinach, whole grains, at fortified bread. Inirerekomendang dagdag na iron sa pagbubuntis: 30–60 mg bawat araw. Mainam itong inumin kasabay ng Vitamin C."
+            },
+            {
+              "type": "heading",
+              "text": "Vitamin A",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Mahalaga para sa malusog na balat, paningin, at paglaki ng mga buto. Mga source nito ang itlog, fortified milk, kalabasa, mangga, papaya, broccoli, malunggay, at spinach."
+            },
+            {
+              "type": "heading",
+              "text": "Vitamin C",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Tumutulong sa malusog na gilagid, ngipin, at buto, pagsipsip ng iron, at pagpapatibay ng immune system. Makukuha sa orange, lemon, kalamansi, strawberry, bayabas, kamatis, at bell pepper."
+            },
+            {
+              "type": "heading",
+              "text": "Vitamin D",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Tumutulong sa katawan na mag-absorba ng calcium para sa pagbuo ng matibay na buto at ngipin ng sanggol. Makukuha sa fortified milk at salmon."
+            },
+            {
+              "type": "heading",
+              "text": "Vitamin B6",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Tumutulong sa pagbuo ng red blood cells at paggamit ng katawan ng protein, carbohydrates, at fats. Makukuha sa karne ng baka at baboy, whole-grain cereals, at saging."
+            },
+            {
+              "type": "heading",
+              "text": "Vitamin B12",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Mahalaga sa maayos na paggana ng nervous system at paggawa ng red blood cells. Makukuha ito sa atay, lean meat, isda, gatas, at manok."
+            },
+            {
+              "type": "heading",
+              "text": "Folate (Folic Acid)",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Mahalaga sa pagbuo ng dugo at protina at nakakatulong na mabawasan ang panganib ng neural tube defects sa sanggol. Makukuha sa malalabay na gulay tulad ng talbos ng kamote, saluyot, malunggay, at iba pa, pati na rin sa atay, orange, beans, at mani."
+            },
+            {
+              "type": "image",
+              "index": 1
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo retrieved from Department of Health, National Nutrition Council"
+            },
+            {
+              "type": "heading",
+              "text": "Mga Ehersisyo",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Sa inilabas na Physical Activity Guidelines ng World Health Organization (WHO), inirerekomendang magkaroon ng 150 minuto kada linggo o 20 minuto kada araw ng physical activity ang mga buntis at postpartum mothers!"
+            },
+            {
+              "type": "paragraph",
+              "text": "Ayon sa mga eksperto, maaaring gawin ang moderate activity exercises upang manatiling aktibo at mapanatili ang kalusugan ng ina at ng sanggol sa sinapupunan."
+            },
+            {
+              "type": "listItem",
+              "text": "Regular na eherhisyo ayon sa kakayahan"
+            },
+            {
+              "type": "listItem",
+              "text": "Rekomendado ang low-impact at moderate-intensity exercises. Mga halimbawa ay paglalakad, stationary biking, yoga"
+            },
+            {
+              "type": "listItem",
+              "text": "Iwasan ang mga contact sports at mga aktibidad na mataas ang posibilidad na matumba o matamaan ang tiyan"
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring makatulong ang brisk walking nang humigit na 20 minuto, 3-4 beses bawat linggo para sa leg cramps"
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "PAALALA / Sumangguni muna sa inyong OB-GYN bago magsimulang mag-ehersisyo upang matiyak na ligtas ito para sa inyo at sa inyong baby at maiwasan ang anumang posibleng komplikasyon."
+                ]
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Kalinisan",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Maligo o linisin ang katawan araw-araw"
+            },
+            {
+              "type": "listItem",
+              "text": "Iwasan ang douching, maglagay ng sabon direkta sa nipples"
+            },
+            {
+              "type": "listItem",
+              "text": "Pumili ng damit na maluwag at komportable"
+            },
+            {
+              "type": "listItem",
+              "text": "Magsuot ng flat at komportableng sapatos"
+            },
+            {
+              "type": "listItem",
+              "text": "Gumamit ng soft-bristled toothbrush at magsiplyo ng dahan-dahan"
+            }
+          ]
+        },
+        {
+          "id": "first",
+          "title": "First trimester (1-3 months)",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Mga Karaniwang Senyales at Sintomas ng Pagbubuntis",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Sa unang trimester, maaaring makaranas ang buntis ng:"
+            },
+            {
+              "type": "listItem",
+              "text": "Pagduduwal"
+            },
+            {
+              "type": "listItem",
+              "text": "Pagsusuka"
+            },
+            {
+              "type": "listItem",
+              "text": "Pagbabago ng panlasa o pang-amoy"
+            },
+            {
+              "type": "listItem",
+              "text": "Pagkapagod, at pagbabago ng gana sa pagkain"
+            },
+            {
+              "type": "listItem",
+              "text": "Morning Sickness / Pagduduwal at Pagsusuka (Nausea/Vomiting)"
+            },
+            {
+              "type": "listItem",
+              "text": "Kumain ng maliliit ngunit madalas na pagkain sa halip na malalaking meals."
+            },
+            {
+              "type": "listItem",
+              "text": "Pumili ng magagaan at low-fat na pagkain na madaling tunawin."
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring kumain ng dry crackers o plain biscuits, lalo na bago bumangon sa umaga."
+            },
+            {
+              "type": "listItem",
+              "text": "Uminom ng sapat na tubig o iba pang likido, ngunit maaaring mas komportable ang iba kung iinom sa pagitan ng meals."
+            },
+            {
+              "type": "listItem",
+              "text": "Iwasan ang pritong, mamantika, at maaanghang na pagkain kung nakakapagpalala ito ng pagsusuka."
+            },
+            {
+              "type": "listItem",
+              "text": "Iwasan ang mga amoy o pagkain na nagpapasimula ng pagkahilo o pagsusuka."
+            },
+            {
+              "type": "listItem",
+              "text": "Kung madalas ang pagsusuka, mahalagang mapanatili ang hydration upang maiwasan ang dehydration."
+            }
+          ]
+        },
+        {
+          "id": "second",
+          "title": "Second trimester (4-6 months)",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Pinaka-Komportableng Yugto",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Karaniwang mas ligtas ang paglalakbay sa second trimester kung walang komplikasyon ang pagbubuntis."
+            },
+            {
+              "type": "listItem",
+              "text": "Sa mahahabang biyahe, magpahinga, gumalaw-galaw, at uminom ng sapat na tubig upang maiwasan ang matagal na pagkakaupo."
+            },
+            {
+              "type": "listItem",
+              "text": "Karaniwang ligtas ang pakikipagtalik kung pinapayagan ng healthcare provider."
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring piliin ang mga posisyong hindi nagbibigay ng pressure sa tiyan, tulad ng Side-lying (patagilid) o Women on top (babae ang nasa ibabaw)"
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "Iwasan ang pakikipagtalik at kumonsulta sa healthcare provider kung may pagdurugo, pagtagas ng panubigan, pananakit, o iba pang komplikasyon."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "third",
+          "title": "Third Trimester (7-9 Months)",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Mag-ingat Dahil Malapit na ang Panganganak",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Habang papalapit ang due date, maaaring mas makaramdam ng pagod, pananakit ng likod, hirap sa pagtulog, at pananakit o paninikip ng tiyan."
+            },
+            {
+              "type": "listItem",
+              "text": "Ipagpatuloy ang regular na prenatal checkups at sundin ang payo ng healthcare provider."
+            },
+            {
+              "type": "listItem",
+              "text": "Ihanda ang mga kailangan para sa panganganak, tulad ng hospital bag, mahahalagang dokumento, at plano kung paano pupunta sa healthcare facility."
+            },
+            {
+              "type": "listItem",
+              "text": "Alamin ang mga senyales ng labor, tulad ng regular at palakas na contractions at pagputok o pagtagas ng panubigan."
+            },
+            {
+              "type": "listItem",
+              "text": "Magpunta agad sa healthcare facility kung may vaginal bleeding, pagtagas ng panubigan, regular na masakit na contractions, o kapansin-pansing pagbaba ng galaw ng sanggol."
+            }
+          ]
+        },
+        {
+          "id": "references",
+          "title": "Reference:",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Department of Health, National Nutrition Council. (n.d.). Healthy Beginning Matters: Good Nutrition throughout Pregnancy. https://nnc.gov.ph/mindanao-region/healthy-beginning-matters-good-nutrition-throughout-pregnancy/"
+            },
+            {
+              "type": "paragraph",
+              "text": "Diyeta sa Pagbubuntis: Mga Pagkaing Dapat Kain at Iwasan Mga Ospital ng Apollo. (n.d.). Apollo Hospitals. https://www.apollohospitals.com/tl/health-library/pregnancy-diet-foods-to-eat-and-avoid"
+            },
+            {
+              "type": "paragraph",
+              "text": "Vinmec International Hospital. (2025, January 25). Nutritional guidelines for the first trimester of pregnancy. Vinmec International Hospital. https://www.vinmec.com/eng/blog/diet-for-the-first-3-months-of-pregnancy-en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "family-planning",
+      "title": "Family Planning",
+      "description": "Mga paraan ng kontrasepsyon, pagpaplano ng pamilya, at kontrasepsyon pagkatapos manganak.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "Overview",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Ano nga ba ang family planning?",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Ang family planning o pagpaplano ng pamilya ay isa sa mga estratehiya upang mabawasan ang mga hindi planadong pagbubuntis, at sa gayon ay mapababa rin ang insidente ng hindi ligtas na pagpapalaglag (unsafe abortion) at pagkamatay ng mga ina."
+            },
+            {
+              "type": "listItem",
+              "text": "Ayon sa Department of Health (2026), tinatayang nasa 8 milyong kababaihan sa Pilipinas ang gumagamit ng mga modernong paraan ng kontrasepsyon."
+            },
+            {
+              "type": "listItem",
+              "text": "51% ng mga Pilipino ay gumagamit ng pills, na siyang pinakakaraniwang paraan ng kontrasepsyon sa Pilipinas."
+            },
+            {
+              "type": "heading",
+              "text": "Mga Pamamaraan para sa Family Planning",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Pamamaraan ng Kalendaryo (Calendar Method)"
+            },
+            {
+              "type": "listItem",
+              "text": "Pamamaraan ng Karaniwang mga Araw (Standard Days Method)"
+            },
+            {
+              "type": "listItem",
+              "text": "Sintotermal na Pamamaraan (Symptothermal Method)"
+            },
+            {
+              "type": "heading",
+              "text": "Mga Benepisyo ng Family Planning",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Nakakaiwas sa hindi planadong pagbubuntis."
+            },
+            {
+              "type": "listItem",
+              "text": "Nakakatulong sa pagplano at pagitan ng pagbubuntis."
+            },
+            {
+              "type": "listItem",
+              "text": "Nakababawas sa panganib ng komplikasyon sa pagbubuntis o maternal complications."
+            },
+            {
+              "type": "listItem",
+              "text": "Nakatutulong mabawasan ang unsafe abortion at maternal deaths."
+            },
+            {
+              "type": "listItem",
+              "text": "Condoms ay nakatutulong din sa pag-iwas sa STIs."
+            },
+            {
+              "type": "image",
+              "index": 1
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo retrieved from DOH CAR"
+            },
+            {
+              "type": "heading",
+              "text": "Mga Panganib / Posibleng Side Effects",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring magkaroon ng pagduduwal, sakit ng ulo, o pagbabago sa regla sa hormonal methods."
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring magkaroon ng cramps o pagbabago sa menstrual bleeding sa IUD."
+            },
+            {
+              "type": "listItem",
+              "text": "Mas mataas ang posibilidad ng pregnancy sa natural methods at withdrawal kapag hindi tama ang paggamit."
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring magkaroon ng allergic reaction o condom breakage sa condom."
+            },
+            {
+              "type": "heading",
+              "text": "Mga Uri ng Kontrasepsiyon para sa Family Planning",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "heading",
+              "text": "Condoms",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "isang manipis at nababanat na pantakip na isinusuot sa ari ng lalaki"
+            },
+            {
+              "type": "heading",
+              "text": "Oral Contraceptives o Birth Control Pills",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Mga tableta na may hormones na iniinom ng babae araw-araw upang maiwasan ang pagbubuntis"
+            },
+            {
+              "type": "heading",
+              "text": "Intrauterine Device (IUD)",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Isang maliit na T-shaped na plastik na aparato na ipinapasok sa matres ng babae; pinipigilan nito ang paggalaw ng sperm upang hindi ito makarating sa obaryo"
+            },
+            {
+              "type": "heading",
+              "text": "Birth Control Implant",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Isang paraan ng kontrasepsyon na inilalagay ng healthcare professional sa braso ng babae; naglalabas ito ng hormone na progestin upang maiwasan ang pagbubuntis sa loob ng ilang taon"
+            },
+            {
+              "type": "heading",
+              "text": "Birth Control Patch",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Isang uri ng kontraseptibo na isinusuot na mayroong hormne na nagpapalapot sa mucus ng cervix upang pigilan ang obulasyon"
+            },
+            {
+              "type": "heading",
+              "text": "Birth Control Vaginal Ring",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Isang maliit na singsing na ipinapasok sa loob ng ari ng babae upang mapigilan ang pagsasama ng sperm cell at ng egg cell"
+            },
+            {
+              "type": "heading",
+              "text": "Cervical Cap",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Isang silicone na maliit at malambot na ipinapasok sa loob ng ari ng babae"
+            },
+            {
+              "type": "heading",
+              "text": "Sterilization",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Isang operasyong surgical para sa mga babae na maaaring pansamantala o permanenteng isara ang fallopian tubes"
+            },
+            {
+              "type": "heading",
+              "text": "Vasectomy",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Isang operasyon para sa mga lalaki kung saan pinuputol o hinaharangan ang mga tubo na dinadaluyan ng sperm sa scrotum"
+            },
+            {
+              "type": "heading",
+              "text": "Rhythm Method",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Ang pag-iwas sa pakikipagtalik sa mga panahong fertile ang babae"
+            },
+            {
+              "type": "heading",
+              "text": "Abstinence",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Ang ganap na pag-iwas sa lahat ng uri ng sekswal na aktibidad"
+            },
+            {
+              "type": "heading",
+              "text": "Withdrawal",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Ang pag-alis ng ari ng lalaki mula sa puwerta bago labasan ng semilya"
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "PAALALA / Ang impormasyong ito ay para lamang sa pangkalahatang edukasyon tungkol sa kalusugan ng ina at family planning. Mas mainam na kumonsulta sa isang healthcare professional bago gumamit, magpalit, o tumigil sa paggamit ng anumang paraan ng kontrasepsiyon."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "references",
+          "title": "Reference:",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Dev-Site. (2025, March 8). Responsible Parenthood: 18 family planning methods You should know about. Makati Medical Center. https://www.makatimed.net.ph/blogs/responsible-parenthood-18-family-planning-methods-you-should-know-about/"
+            },
+            {
+              "type": "paragraph",
+              "text": "Family Planning Program Department of Health. (n.d.). https://ro11.doh.gov.ph/family-planning-program/#type"
+            },
+            {
+              "type": "heading",
+              "text": "Image Sources",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Mga Benepisyo ng Family Planning DOH CAR. (n.d.). https://caro.doh.gov.ph/mga-benepisyo-ng-family-planning/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "health-education",
+      "title": "Health Education",
+      "description": "Mga karaniwang suliranin sa kalusugan ng ina, mga senyales ng panganib, at kung kailan kinakailangang humingi ng medikal na tulong.",
+      "sections": [
+        {
+          "id": "first",
+          "title": "First trimester (1-3 months)",
+          "blocks": [
+            {
+              "type": "image",
+              "index": 1
+            },
+            {
+              "type": "heading",
+              "text": "Mga Karaniwang Sintomas",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Maaaring makaranas ng mga sintomas na sumusunod:"
+            },
+            {
+              "type": "heading",
+              "text": "Pagduduwal at Pagsusuka",
+              "level": 3,
+              "italic": true
+            },
+            {
+              "type": "listItem",
+              "text": "Kumain ng kaunti ngunit madalas"
+            },
+            {
+              "type": "listItem",
+              "text": "Iwasan ang matataba, prito, at maanghang na pagkain"
+            },
+            {
+              "type": "listItem",
+              "text": "Uminom ng sapat na tubig upang maiwasan ang dehydration"
+            },
+            {
+              "type": "listItem",
+              "text": "Kung matindi o tuloy-tuloy ang pagsusuka at hindi makainom o makakain, magpatingin agad sa Doktor."
+            },
+            {
+              "type": "heading",
+              "text": "Pagkapagod",
+              "level": 3,
+              "italic": true
+            },
+            {
+              "type": "listItem",
+              "text": "Magpahinga at matulog nang sapat"
+            },
+            {
+              "type": "listItem",
+              "text": "Iwasan ang sobrang pagod at mabibigat na gawain."
+            },
+            {
+              "type": "heading",
+              "text": "Pagkahilo",
+              "level": 3,
+              "italic": true
+            },
+            {
+              "type": "listItem",
+              "text": "Dahan-dahang bumangon mula sa pagkakahiga o pag-upo"
+            },
+            {
+              "type": "listItem",
+              "text": "Kumain nang regular at uminom ng sapat na tubig"
+            },
+            {
+              "type": "listItem",
+              "text": "Kung madalas na nahihimatay o matindi ang pagkahilo, magpatingin sa health center o ospital"
+            },
+            {
+              "type": "heading",
+              "text": "Madalas na Pag-ihi",
+              "level": 3,
+              "italic": true
+            },
+            {
+              "type": "listItem",
+              "text": "Normal itong mangyari dahil sa mga pagbabago sa katawan"
+            },
+            {
+              "type": "listItem",
+              "text": "Uminom pa rin ng sapat na tubig at huwag pigilan ang pag-ihi"
+            },
+            {
+              "type": "listItem",
+              "text": "Kung may hapdi, pananakit, o dugo sa ihi, magpatingin dahil maaaring may impeksiyon"
+            }
+          ]
+        },
+        {
+          "id": "second",
+          "title": "Second trimester (4-6 months)",
+          "blocks": [
+            {
+              "type": "image",
+              "index": 2
+            },
+            {
+              "type": "paragraph",
+              "text": "Sa ikalawang trimester, karaniwan ang ilang kakaibang pakiramdam sa katawan habang nagbabago ang iyong katawan sa pagbubuntis."
+            },
+            {
+              "type": "heading",
+              "text": "Mga Karaniwang Sintomas",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Maaaring makaranas ng mga sintomas na sumusunod:"
+            },
+            {
+              "type": "heading",
+              "text": "Pagduduwal at Pagsusuka",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Makatutulong ang kaunting portion ng dry crackers low-fat meals at pag-inom ng tubig sa bawat pagkain."
+            },
+            {
+              "type": "listItem",
+              "text": "Iwasan ang mga prito at maanghang na pagkain"
+            },
+            {
+              "type": "listItem",
+              "text": "Kung kinakailangan, uminom ng gamot laban sa pagsusuka ayon sa reseta."
+            },
+            {
+              "type": "heading",
+              "text": "Pagkahilo o Pagkahimatay",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Dahan-dahang umupo at nang nakataas ang mga paa"
+            },
+            {
+              "type": "listItem",
+              "text": "Iwasang humiga nang diretso sa iyong likod"
+            },
+            {
+              "type": "heading",
+              "text": "Madalas at Biglaang Pag-ihi",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Uminom ng hindi bababa sa 2,000 mL o (n) baso ng tubig bawat araw habang sa gabi naman ay maaaring bawasan ito kung nakaka apekto ng madalas sa iyong pag tulog."
+            },
+            {
+              "type": "listItem",
+              "text": "Regular na umihi at magsagawa ng Kegel exercises."
+            },
+            {
+              "type": "paragraph",
+              "text": "(insert kegel)"
+            }
+          ]
+        },
+        {
+          "id": "third",
+          "title": "Third trimester (7-9 months)",
+          "blocks": [
+            {
+              "type": "image",
+              "index": 3
+            },
+            {
+              "type": "paragraph",
+              "text": "Sa Ikatlong Trimester, karaniwan ang ilang pagbabago sa katawan habang lumalaki ang sanggol. Maaaring makaranas ng mga sumusunod:"
+            },
+            {
+              "type": "heading",
+              "text": "Mga Karaniwang Sintomas",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "heading",
+              "text": "Pananakit ng Likod",
+              "level": 3,
+              "italic": true
+            },
+            {
+              "type": "listItem",
+              "text": "Panatilihin ang tamang postura at iwasang magbuhat ng mabigat"
+            },
+            {
+              "type": "listItem",
+              "text": "Magpahinga at magpalit ng posisyon kung kinakailangan"
+            },
+            {
+              "type": "heading",
+              "text": "Pamamaga ng Paa at Kamay",
+              "level": 3,
+              "italic": true
+            },
+            {
+              "type": "listItem",
+              "text": "Iwasang matagal na nakatayo"
+            },
+            {
+              "type": "listItem",
+              "text": "Itaas ang mga paa kapag nagpapahinga"
+            },
+            {
+              "type": "listItem",
+              "text": "Kung biglaan o matindi ang pamamaga, magpatingin agad"
+            },
+            {
+              "type": "heading",
+              "text": "Mga Senyales na Kailangang Ipatingin Agad",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Maaaring maranasan ang ilang karaniwang sintomas, ngunit magpatingin agad kung may sumusunod:"
+            },
+            {
+              "type": "heading",
+              "text": "Pagdurugo sa ari",
+              "level": 3,
+              "italic": true
+            },
+            {
+              "type": "listItem",
+              "text": "Ang matingkad na pulang pagdurugo ay maaaring senyales ng komplikasyon"
+            },
+            {
+              "type": "listItem",
+              "text": "Magpatingin agad sa health center o ospital"
+            },
+            {
+              "type": "heading",
+              "text": "Pagputok o paglabas ng panubigan",
+              "level": 3,
+              "italic": true
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring maging senyales na nagsisimula na ang panganganak"
+            },
+            {
+              "type": "listItem",
+              "text": "Magpatingin agad, lalo na kung wala pa sa 37 linggo"
+            },
+            {
+              "type": "heading",
+              "text": "Nabawasan ang paggalaw ng sanggol",
+              "level": 3,
+              "italic": true
+            },
+            {
+              "type": "listItem",
+              "text": "Bigyang-pansin ang karaniwang galaw ng sanggol"
+            },
+            {
+              "type": "listItem",
+              "text": "Kung kapansin-pansing nabawasan o hindi na gumagalaw ang sanggol, magpatingin agad"
+            },
+            {
+              "type": "heading",
+              "text": "Madalas o masakit na paghilab ng tiyan",
+              "level": 3,
+              "italic": true
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring senyales ng panganganak"
+            },
+            {
+              "type": "listItem",
+              "text": "Kung wala pa sa 37 linggo, maaaring senyales ng maagang panganganak"
+            },
+            {
+              "type": "heading",
+              "text": "Matinding pananakit ng ulo o malabong paningin",
+              "level": 3,
+              "italic": true
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring senyales ng preeclampsia, isang kondisyon na may kaugnayan sa mataas na presyon ng dugo habang buntis"
+            },
+            {
+              "type": "listItem",
+              "text": "Magpatingin agad sa health center o ospital"
+            },
+            {
+              "type": "heading",
+              "text": "Pangingisay",
+              "level": 3,
+              "italic": true
+            },
+            {
+              "type": "listItem",
+              "text": "Emergency at kailangang dalhin agad sa ospital"
+            },
+            {
+              "type": "heading",
+              "text": "Matinding pananakit ng tiyan",
+              "level": 3,
+              "italic": true
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring senyales ng seryosong komplikasyon"
+            },
+            {
+              "type": "listItem",
+              "text": "Magpatingin agad"
+            },
+            {
+              "type": "heading",
+              "text": "Lagnat o panginginig",
+              "level": 3,
+              "italic": true
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring senyales ng impeksiyon"
+            },
+            {
+              "type": "listItem",
+              "text": "Magpatingin agad para masuri"
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "PAALALA / Huwag maghintay kung may nararamdamang kakaiba. Kung may matinding pagdurugo, pumutok ang panubigan, nabawasan ang galaw ng sanggol, matinding pananakit ng ulo, malabong paningin, pangingisay, o matinding pananakit ng tiyan, magpatingin agad sa health center o ospital"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "references",
+          "title": "Reference:",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Murray, S. S., McKinney, E. S., Holub, K. S., & Jones, R. (2019). Foundations of Maternal-newborn and Women's Health Nursing. Elsevier."
+            },
+            {
+              "type": "heading",
+              "text": "Image Sources",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "stages-pregnancy-conception-child-pregnancy-newborn-healthy-happy-pregnancy_335402-527.jpg (740×296)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "emotional-support",
+      "title": "Emotional Support",
+      "description": "Mga pagbabagong emosyonal at mga paraan ng pagharap sa mga ito habang nagbubuntis at pagkatapos manganak.",
+      "sections": [
+        {
+          "id": "first",
+          "title": "First trimester (1-3 months)",
+          "blocks": [
+            {
+              "type": "image",
+              "index": 1
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo retrieved from: Amma (2025)"
+            },
+            {
+              "type": "heading",
+              "text": "Mga Karaniwang Emosyonal na Karanasan",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Ang mga sumusunod ay inaasahang maranasan ng isang nagdadalang tao na nasa Unang Trimestro ng pagbubuntis:"
+            },
+            {
+              "type": "heading",
+              "text": "Uncertainty",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Sa mga unang linggo ay maaaring hindi pa sigurado ang babae sa pagbubuntis, at sinusubukan pang ikompirma ito. Maaaring siya ay lumapit sa kanyang pamilya o mga kaibigan para pag-usapan ang tsansa na siya ay buntis, at gumamit ng mga over-the-counter (OTC) pregnancy bilang patunay."
+            },
+            {
+              "type": "heading",
+              "text": "Ambivalence",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Magkahalong damdamin tungkol sa pagbububuntis, pagkakaroon ng anak, at pagiging magulang dahil sa mga inaasahang permanenteng pagbabago bago, habang, at pagkatapos manganak."
+            },
+            {
+              "type": "heading",
+              "text": "Mood swings / Emotional Lability",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Bigla-biglang pagbabago ng mood o pagiging mas emosyonal na maaaring epekto ng mga piskal na pagbabago o pagtaas ng hormone levels."
+            },
+            {
+              "type": "heading",
+              "text": "The Self as Primary Focus",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Mas nakatuon sa sariling nararamdaman, pangangailangan, at mga pagiging mas emosyonal kaysa"
+            },
+            {
+              "type": "heading",
+              "text": "Ano ang Dapat Gawin?",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Unawain at tanggapin na ang denial, ambivalence, mood swings, at focusing on self ay mga normal at inaasahang karanasan sa unang tatlong buwan ng pagbubuntis, at ibahagi ang mga nararamdamang ito sa partner o healthcare provider upang makakuha ng tamang suporta at gabay."
+            }
+          ]
+        },
+        {
+          "id": "second",
+          "title": "Second trimester (4-6 months)",
+          "blocks": [
+            {
+              "type": "image",
+              "index": 2
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo retrieved from: Amma (2025)"
+            },
+            {
+              "type": "heading",
+              "text": "Mga Karaniwang Emosyonal na Karanasan",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Ang mga sumusunod ay inaasahang maranasan ng isang nagdadalang tao na nasa Ikalawang Trimestro ng pagbubuntis:"
+            },
+            {
+              "type": "listItem",
+              "text": "Acceptance of the Baby, Having the Baby as Primary Focus"
+            },
+            {
+              "type": "listItem",
+              "text": "Unti-unti nang natatanggap at nasasanay sa realidad ng pagkakaroon ng anak, lalo na kapag naramdaman na ang unang paggalaw ng sanggol (quickening)."
+            },
+            {
+              "type": "listItem",
+              "text": "Ang nagdadalang tao ay nag-aalala na sa kalusugan ng kanyang baby. Madalas ay interesado sa impormasyon tungkol sa diet at paglaki ng sanggol sa sinapupunan (fetal development)"
+            },
+            {
+              "type": "heading",
+              "text": "Narcissism and Introversion",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Mas nakatuon ang buntis sa sarili, sa katawan niya, at sa pagbubuntis. Ang narcissism ay tumutukoy sa pagtaas ng pag-aalala o labis na pagtutok sa sarili, habang ang introversion ay mas pagiging nakatuon sa sariling isip at damdamin. Maaari rin siyang mas maraming oras na gumugol sa pag-iisip tungkol sa baby, fetal development, at kung ano ang magiging buhay niya pagkatapos manganak."
+            },
+            {
+              "type": "heading",
+              "text": "Body Image",
+              "level": 3
+            },
+            {
+              "type": "heading",
+              "text": "Ang body image ay kung paano nakikita at nararamdaman ng babae ang pagbabago sa kanyang katawan habang buntis. Sa second trimester, mas kapansin-pansin ang paglaki ng abdomen, breasts, at pagbabago ng body shape. Maaaring tanggapin at ikatuwa ng iba ang mga pagbabagong ito dahil tanda ito ng paglaki ng baby, ngunit maaari rin itong magdulot ng negative feelings tungkol sa sariling katawan.",
+              "level": 3
+            },
+            {
+              "type": "heading",
+              "text": "Changes in Sexuality",
+              "level": 3
+            },
+            {
+              "type": "heading",
+              "text": "Sa pagbubuntis, maaaring magbago ang sexual interest at activity ng babae at ng kanyang partner. Maaaring tumaas ang sexual responsiveness dahil nababawasan ang nausea at maaaring bumalik ang energy at sense of well-being. Maaari ring maapektuhan ang sexual activity ng physical changes, discomfort, at emotional concerns tungkol sa pregnancy.",
+              "level": 3
+            },
+            {
+              "type": "heading",
+              "text": "Fantasy and Daydreaming",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Madalas mag-isip patungkol sa pagkakaroon ng anak at buhay bilang magulang."
+            },
+            {
+              "type": "heading",
+              "text": "Introspective",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Mas nagiging mapanuri sa sarili, gaya ng relasyon sa asawa o kinakasama, career, at pakikitungo sa biyenan."
+            },
+            {
+              "type": "heading",
+              "text": "Ano ang Dapat Gawin?",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Damhin ang bawat kick o galaw ng baby bilang tanda ng inyong koneksyon, at makipag-usap nang tapat sa asawa tungkol sa trabaho, relasyon, at pag-aalaga sa bata para mabawasan ang pag-aalala."
+            },
+            {
+              "type": "paragraph",
+              "text": "Kung wala ang asawa o kinakasama, mangyaring tumungo sa magulang o iba pang natuturing na support system upang mapag-usapan ang mga paksang ito."
+            }
+          ]
+        },
+        {
+          "id": "third",
+          "title": "Third trimester (7-9 months)",
+          "blocks": [
+            {
+              "type": "image",
+              "index": 3
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo retrieved from: Amma (2024)"
+            },
+            {
+              "type": "heading",
+              "text": "Mga Karaniwang Emosyonal na Karanasan",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Mapaliwanag na ang mga sumusunod ay inaasahang maranasan ng isang nagdadalang tao na nasa Ikatlong Trimestro ng pagbubuntis:"
+            },
+            {
+              "type": "heading",
+              "text": "Vulnerability (Fear, Anxiety, and Dreams)",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Maaaring makaramdam ng takot o pagkabalisa, at magkaroon ng mga hindi kanais-nais na panaginip tungkol sa sakit ng panganganak, pagkakaroon ng kapansanan ng sanggol, at kamatayan."
+            },
+            {
+              "type": "heading",
+              "text": "Increasing Dependence",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Habang papalapit ang delivery, maaaring maging mas dependent ang babae sa kanyang partner at ibang taong sumusuporta sa kanya. Maaaring mas kailangan niya ng tulong sa physical activities, decision-making, at emotional concerns. Ang increased dependence na ito ay maaaring resulta ng physical discomfort, fatigue, at pangangailangan niya ng security habang papalapit ang birth."
+            },
+            {
+              "type": "heading",
+              "text": "Nesting or Preparation for Birth",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Mas nagiging abala sa paghahanda ng bahay at mga kakailanganin ng sanggol bago manganak. Mas nagiging aware siya na ang fetus ay isang hiwalay na individual at hindi lamang bahagi ng kanyang katawan."
+            },
+            {
+              "type": "heading",
+              "text": "Role Playing",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Iniisip at pinagpapraktisan na ang mga bagong tungkulin at responsibilidad bilang isang ina."
+            },
+            {
+              "type": "heading",
+              "text": "Habang Nanganganak",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Habang nanganganak naman ay maaaring makaranas ng:"
+            },
+            {
+              "type": "listItem",
+              "text": "Mild Anxiety o Kaunting Pagkabalisa dahil sa pagdurugo dulot ng panganganak"
+            },
+            {
+              "type": "heading",
+              "text": "Pagkatapos Manganak",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Pagkatapos manganak ay maraming emosyonal na pagbabago ang maaaring mangyari, gaya ng mga sumusunod:"
+            },
+            {
+              "type": "heading",
+              "text": "Mother and Newborn Attachment",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Pagbuo ng malalim na emosyonal na ugnayan ng ina sa kanyang sanggol"
+            },
+            {
+              "type": "heading",
+              "text": "Baby Blues",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Panandaliang kalungkutan o pagiging emosyonal pagkatapos manganak, na karaniwan nawawala sa loob ng ilang araw hanggang dalawang linggo."
+            },
+            {
+              "type": "heading",
+              "text": "Rubin’s Phases of Maternal Role Attainment:",
+              "level": 3,
+              "italic": true
+            },
+            {
+              "type": "heading",
+              "text": "Taking-in phase",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Panahong nakatuon lang ang ina sa sarili at sa kanyang karanasan sa panganganak; “Ako muna”"
+            },
+            {
+              "type": "heading",
+              "text": "Taking-hold phase",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Panahong nagsisimula nang matutong mag-alaga ng kanyang sanggol at magkaroon ng kumpiyansa bilang ina; “Kaya ko nang alagaan ang aking sanggol.”"
+            },
+            {
+              "type": "heading",
+              "text": "Letting-go phase",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Panahong tinatanggap na ng ina ang kanyang bagong papel ar responsibilidad bilang isang ina; “Tanggap ko na ang aking pagiging ina.”"
+            },
+            {
+              "type": "heading",
+              "text": "Ano ang Dapat Gawin?",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Ibahagi sa partner at healthcare provider ang mga nararamdamang takot o kalungkutan, ihanda ang mga gamit ng baby, at unti-unting aralin ang pag-aalaga sa anak habang nagpapahinga para sa sariling recovery."
+            }
+          ]
+        },
+        {
+          "id": "references",
+          "title": "Reference:",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Murray, S. S., McKinney, E. S., Holub, K., Jones, R., & Scheffer, K. L. (2023). Foundations of maternal-newborn and women’s health nursing (8th ed.). Elsevier."
+            },
+            {
+              "type": "heading",
+              "text": "Image Sources",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Amma. (2024, September 2). Baby Names & Fetal Development Guide [2026] - Week 20. amma. https://amma.family/blog/pregnancy/the-baby-can-hear-moms-heartbeat"
+            },
+            {
+              "type": "paragraph",
+              "text": "Amma. (2025a, March 25). Can bed rest prevent miscarriage? [2026 Evidence Guide]. amma. https://amma.family/blog/pregnancy/can-bed-rest-prevent-a-miscarriage"
+            },
+            {
+              "type": "paragraph",
+              "text": "Amma. (2025b, June 3). Coping with Pregnancy Limitations: 2026 Guide for Moms. amma. https://amma.family/blog/pregnancy/frustration-with-new-limitations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "provider-communication",
+      "title": "Healthcare Provider Communication",
+      "description": "Mga paraan tungo sa mabisang pakikipag-usap sa mga healthcare provider, kabilang ang wastong pagtatanong at pagpapahayag ng sariling pangangailangan at kalagayan sa kalusugan.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "Overview",
+          "blocks": [
+            {
+              "type": "image",
+              "index": 1
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo retrieved from VectorStock"
+            }
+          ]
+        },
+        {
+          "id": "first",
+          "title": "First trimester (1-3 months)",
+          "blocks": [
+            {
+              "type": "listItem",
+              "text": "Anong mga check-up o appointment ang dapat kong asahan sa buong panahon ng aking pagbubuntis?"
+            },
+            {
+              "type": "listItem",
+              "text": "May panganib ba na magkaroon ako ng anumang komplikasyon o kondisyon?"
+            },
+            {
+              "type": "listItem",
+              "text": "Anong mga pagsusuri o test ang dadaanan ko habang buntis?"
+            },
+            {
+              "type": "listItem",
+              "text": "Anong mga sintomas ang normal, at alin ang dapat kong ipag-alala? Kailan ako dapat makipag-ugnayan sa isang doktor o propesyonal sa kalusugan?"
+            },
+            {
+              "type": "listItem",
+              "text": "Paano ko mapapawi ang mga sintomas ng pagbubuntis tulad ng morning sickness o pagsusuka sa umaga at pagkapagod?"
+            },
+            {
+              "type": "listItem",
+              "text": "Aling mga gamot na nabibili nang walang reseta (over-the-counter) ang ligtas gamitin habang buntis?"
+            },
+            {
+              "type": "listItem",
+              "text": "Anong mga bitamina o suplemento ang dapat kong inumin?"
+            },
+            {
+              "type": "listItem",
+              "text": "Anong mga pagkain ang dapat kong iwasan?"
+            },
+            {
+              "type": "listItem",
+              "text": "Anong mga ehersisyo ang ligtas kong gawin?"
+            },
+            {
+              "type": "listItem",
+              "text": "Paano ko mai-aayos o mai-iskedyul ang aking mga ultrasound scan at susunod na appointment?"
+            },
+            {
+              "type": "listItem",
+              "text": "Paano ako makikipag-ugnayan sa midwife kung may mga tanong ako sa pagitan ng aking mga appointment?"
+            },
+            {
+              "type": "listItem",
+              "text": "Anong suporta ang available para sa kalusugan ng pag-iisip (mental health) habang buntis?"
+            },
+            {
+              "type": "listItem",
+              "text": "Gaano katumpak ang tinatayang petsa ng panganganak (estimated due date)?"
+            },
+            {
+              "type": "listItem",
+              "text": "Kailan ko maririnig ang tibok ng puso ng aking anak?"
+            },
+            {
+              "type": "listItem",
+              "text": "Ano ang maaari kong maasahang makita sa ultrasound scan?"
+            },
+            {
+              "type": "listItem",
+              "text": "Mayroon bang anumang dapat alalahanin sa pag-unlad ng aking baby?"
+            },
+            {
+              "type": "listItem",
+              "text": "Maaari ba akong kumuha ng larawan o video ng scan?"
+            },
+            {
+              "type": "listItem",
+              "text": "Ano ang mga kasunod na mangyayari sa aking pangangalaga sa pagbubuntis (maternity care)?"
+            }
+          ]
+        },
+        {
+          "id": "second",
+          "title": "Second trimester (4-6 months)",
+          "blocks": [
+            {
+              "type": "listItem",
+              "text": "Kumusta ang naging resulta ng mga blood test ko mula sa aking naging appointment?"
+            },
+            {
+              "type": "listItem",
+              "text": "Anong mga sintomas ang dapat kong asahan sa ikalawang trimester?"
+            },
+            {
+              "type": "listItem",
+              "text": "Magsisimula ko na bang maramdaman ang paggalaw ni baby sa loob ng tiyan hindi magtatagal?"
+            },
+            {
+              "type": "listItem",
+              "text": "Kailan ko maririnig ang tibok ng puso ng bata?"
+            },
+            {
+              "type": "listItem",
+              "text": "Kailan ako dapat magsimulang mag-isip tungkol sa aking plano sa panganganak?"
+            },
+            {
+              "type": "listItem",
+              "text": "Anong mga antenatal class (klase para sa paghahanda sa panganganak) ang mga maaaring pag-aralan?"
+            },
+            {
+              "type": "listItem",
+              "text": "Anong mga ehersisyo ang ligtas kong gawin?"
+            },
+            {
+              "type": "listItem",
+              "text": "Para saan ang scan na ito at ano ang sinusuri dito?"
+            },
+            {
+              "type": "listItem",
+              "text": "Malaman ko na ba ang kasarian ng baby?"
+            },
+            {
+              "type": "listItem",
+              "text": "Kung may makitang hindi karaniwan o kakaiba, ano ang susunod na mangyayari?"
+            },
+            {
+              "type": "listItem",
+              "text": "Maaayos at ayon ba sa edad ng pagbubuntis ang paglaki ng aking baby?"
+            },
+            {
+              "type": "listItem",
+              "text": "Maaari pa ba akong magpa-scan ulit kung gusto kong makitang muli ang baby ko bago ako manganak?"
+            },
+            {
+              "type": "listItem",
+              "text": "Kumusta ang paglaki at pag-unlad ng aking baby?"
+            },
+            {
+              "type": "listItem",
+              "text": "Anong mga pagkain ang dapat kong iwasan o mas kailangan kong kainin?"
+            },
+            {
+              "type": "listItem",
+              "text": "Anong mga ehersisyo ang ligtas kong gawin?"
+            },
+            {
+              "type": "listItem",
+              "text": "Paano ko malalaman ang mga maagang sintomas ng maagang paglabas ng bata (preterm labor)?"
+            },
+            {
+              "type": "listItem",
+              "text": "Ano ang posisyon ng aking anak sa loob ng sinapupunan?"
+            },
+            {
+              "type": "listItem",
+              "text": "Ano ang dapat kong gawin kung makaranas ako ng pamamaga o iba pang hindi karaniwang sintomas?"
+            }
+          ]
+        },
+        {
+          "id": "third",
+          "title": "Third trimester (7-9 months)",
+          "blocks": [
+            {
+              "type": "listItem",
+              "text": "Ano ang mga sintomas na normal kong mararanasan habang papalapit ang panganganak?"
+            },
+            {
+              "type": "listItem",
+              "text": "Paano ko mababantayan ang paggalaw ng aking baby, at kailan ako dapat mag-alala kung nabawasan ang paggalaw nito?"
+            },
+            {
+              "type": "listItem",
+              "text": "Ano ang mga senyales na nagsisimula na ang labor?"
+            },
+            {
+              "type": "listItem",
+              "text": "Paano ko malalaman ang pagkakaiba ng true labor at false labor?"
+            },
+            {
+              "type": "listItem",
+              "text": "Kailan ako dapat pumunta sa health center o ospital kapag nagsimula na ang labor?"
+            },
+            {
+              "type": "listItem",
+              "text": "Ano ang dapat kong gawin kung pumutok ang aking panubigan (water breaks)?"
+            },
+            {
+              "type": "listItem",
+              "text": "Ano ang mga mga senyales ng panganib tulad ng pagdurugo, matinding pananakit ng ulo, panlalabo ng paningin, o matinding pamamaga na kailangan kong ipaalam agad?"
+            },
+            {
+              "type": "listItem",
+              "text": "Ano ang kasalukuyang posisyon ng aking baby? Nasa tamang posisyon na ba ito para sa panganganak?"
+            },
+            {
+              "type": "listItem",
+              "text": "Maayos ba ang paglaki at timbang ng aking baby para sa edad ng aking pagbubuntis?"
+            },
+            {
+              "type": "listItem",
+              "text": "May mga pagsusuri o laboratory tests pa ba akong kailangang gawin bago manganak?"
+            },
+            {
+              "type": "listItem",
+              "text": "Kailangan ko ba ng Group B Streptococcus (GBS) screening, at para saan ito?"
+            },
+            {
+              "type": "listItem",
+              "text": "Ano ang aking mga pagpipilian para sa panganganak at pain management habang nasa labor?"
+            },
+            {
+              "type": "listItem",
+              "text": "Kailan maaaring kailanganin ang induction of labor o cesarean section?"
+            },
+            {
+              "type": "listItem",
+              "text": "Ano ang mga dapat kong ihanda para sa aking birth plan at pagpunta sa ospital?"
+            },
+            {
+              "type": "listItem",
+              "text": "Ano ang mga gamot, bitamina, o supplement na dapat ko pa ring ipagpatuloy hanggang sa panganganak?"
+            },
+            {
+              "type": "listItem",
+              "text": "May mga pagkain, gawain, ehersisyo, o posisyon ba na dapat kong iwasan sa huling trimester?"
+            },
+            {
+              "type": "listItem",
+              "text": "Paano ako makapaghahanda para sa breastfeeding at pag-aalaga sa aking baby pagkatapos manganak?"
+            },
+            {
+              "type": "listItem",
+              "text": "Ano ang dapat kong asahan sa aking pangangalaga pagkatapos manganak (postpartum care)?"
+            },
+            {
+              "type": "listItem",
+              "text": "Gaano kadalas na ang aking prenatal check-up habang papalapit ang aking due date?"
+            },
+            {
+              "type": "listItem",
+              "text": "Ano ang mangyayari kung lumampas ako sa aking estimated due date?"
+            }
+          ]
+        },
+        {
+          "id": "references",
+          "title": "Reference:",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "HiPP. (2025, March 19). How to have conversations with healthcare professionals. HiPP Organic. https://www.hipp.co.uk/advice/pregnancy/pregnancy-tips-and-support/how-to-talk-with-healthcare-professionals"
+            },
+            {
+              "type": "paragraph",
+              "text": "NHS. (2020, December 2). Your baby’s movements. Nhs.Uk. https://www.nhs.uk/pregnancy/keeping-well/your-babys-movements/"
+            },
+            {
+              "type": "heading",
+              "text": "Image Sources",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "LordOttori (2026). Pregnant Woman Doctor Consultation Vector Image. VectorStock https://www.vectorstock.com/royalty-free-vector/pregnant-woman-doctor-consultation-vector-61853201"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "community-resources",
+      "title": "Community Resources",
+      "description": "Mga lokal na support service, maternity clinic, at iba pang serbisyong pangkalusugan para sa mga ina na makukuha sa komunidad.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "Overview",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Ang sumusunod na impormasyon ay nagbibigay ng mahahalagang detalye tungkol sa mga support services, maternity clinics, at iba pang mga mapagkukunang available na maaaring makatulong sa pangangalaga sa kalusugan ng ina."
+            },
+            {
+              "type": "image",
+              "index": 1
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo retrieved from: Carbonell, C. G. C. (2026, June 2)"
+            },
+            {
+              "type": "heading",
+              "text": "Barangay Health Center o Station (BHC/BHS)",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Ang Barangay Health Center o Station ay maaaring maging unang lugar na puntahan kung kailangan ng tulong tungkol sa pagbubuntis."
+            },
+            {
+              "type": "paragraph",
+              "text": "Maaaring makakuha o ma-refer para sa:"
+            },
+            {
+              "type": "listItem",
+              "text": "Prenatal check-up: Inirerekomenda ng DOH na hindi bababa sa 8 prenatal checkups upang masubaybayan ang iyong kalusugan at kalagayan ng iyong sanggol."
+            },
+            {
+              "type": "listItem",
+              "text": "Bakuna: Magtanong kung anong bakuna ang kailangan mo habang buntis, tulad ng tetanus-diphtheria vaccine."
+            },
+            {
+              "type": "listItem",
+              "text": "Bitamina at mineral katulad ng iron, folic acid, at calcium."
+            },
+            {
+              "type": "listItem",
+              "text": "Basic laboratory tests tulad ng blood at urine tests ay depende sa serbisyong available sa inyong health center."
+            },
+            {
+              "type": "listItem",
+              "text": "Nutrisyon: Mga payo tungkol sa tamang pagkain at nutrisyon habang buntis"
+            },
+            {
+              "type": "listItem",
+              "text": "Postpartum at newborn care: Impormasyon kung saan maaaring magpatingin pagkatapos manganak at kung saan maaaring ipagawa ang newborn screening ng inyong sanggol"
+            },
+            {
+              "type": "heading",
+              "text": "DSWD Services",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Ang Department of Social Welfare and Development o DSWD ay nagbibigay ng counseling tungkol sa Responsible Parenthood at tulong sa kabuhayan, tulad ng Sustainable Livelihood Program (SLP), para sa mga ina o sa mga padre de pamilya"
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  "PAALALA / MAGTANONG sa inyong BHS kung ano ang kanilang mga serbisyo. Maaaring magkaiba ang mga serbisyong available sa bawat barangay. / DUMALO sa iyong regular na prenatal check-up. / ITAGO ang iyong mga prenatal records at mahahalagang dokumento. / MAGPATINGIN AGAD kung makaranas ng anumang emergency habang BUNTIS."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "references",
+          "title": "Reference:",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Carbonell, C. G. C. (2026, June 2). Healthy mothers, safer births: DOH pushes complete maternal care services. Philippine Information Agency. https://pia.gov.ph/news/healthy-mothers-safer-births-doh-pushes-complete-maternal-care-services/"
+            },
+            {
+              "type": "paragraph",
+              "text": "Maternal health DOH CAR. (n.d.). https://caro.doh.gov.ph/maternal-health/"
+            },
+            {
+              "type": "heading",
+              "text": "Image Sources",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Carbonell, C. G. C. (2026, June 2). Healthy mothers, safer births: DOH pushes complete maternal care services. Philippine Information Agency. https://pia.gov.ph/news/healthy-mothers-safer-births-doh-pushes-complete-maternal-care-services/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "record-keeping",
+      "title": "Record Keeping",
+      "description": "Kahalagahan ng pagtatala ng mga prenatal appointment, resulta ng pagsusuri, bakuna, at iba pang mahalagang impormasyon tungkol sa kalusugan ng ina at sanggol.",
+      "sections": [
+        {
+          "id": "first",
+          "title": "First trimester (1-3 months)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Layunin: Makagawa at maisaayos ang sariling Maternal Health Record ni Mother"
+            },
+            {
+              "type": "listItem",
+              "text": "Kahalagahan ng pagpapanatili na mayroong Maternal Health Record"
+            },
+            {
+              "type": "listItem",
+              "text": "Ito ang magsisilbing sanggunian o reference ng buntis at ng kanyang healthcare provider, sinusugardong ang bawat antenatal appointment, laboratory o diagnostic na eksaminasyon, gamot o bakuna, at iba pang mahalagang rekord ay nasusubaybayan nang tama. Nang sa gayon ay maiwasan ang mga hindi inaasahang pangyayari gaya ng:"
+            },
+            {
+              "type": "listItem",
+              "text": "Pagkalimot o pagkalito sa mga nakatakdang prenatal check-up at follow-up appointment"
+            },
+            {
+              "type": "listItem",
+              "text": "Mahihirapan tukuyin kung anong mga bakuna o serbisyong pangkalusugan na ang natanggap at dapat pang matanggap"
+            },
+            {
+              "type": "listItem",
+              "text": "Pagkaantala sa pagbigay ng angkop na pangangalaga o referral dahil sa kakulangan ng impormasyon"
+            },
+            {
+              "type": "listItem",
+              "text": "Siguraduhin na sa bawat check-up o appointment kasama ang Healthcare Provider ay magawa o ma-update ang mga sumusunod:"
+            },
+            {
+              "type": "listItem",
+              "text": "Pagtala ng petsa ng prenatal appointments, mula sa pinakaunang prenatal visit hanggang sa mga susunod"
+            },
+            {
+              "type": "listItem",
+              "text": "Vaccination/immunization record (Angkop na ito ay ipa-check sa doktor o healthcare provider para sa pagtukoy ng nararapat na vaccination schedule)"
+            },
+            {
+              "type": "listItem",
+              "text": "Itago lahat ng health record gaya ng laboratory at imaging tests results (Hal: blood tests, ultrasound) at iba pang health documents sa isang ligtas at madaling makuhaan na lagayan"
+            },
+            {
+              "type": "listItem",
+              "text": "Dalhin lagi ang record sa bawat konsultasyon sa health center, clinic, midwife, nars, o doktor"
+            },
+            {
+              "type": "listItem",
+              "text": "Kung may mga katanungan o concerns, mangyari ito ay ilista at tanungin sa susunod na konsultasyon"
+            }
+          ]
+        },
+        {
+          "id": "second",
+          "title": "Second trimester (4-6 months)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Layunin: Mapanatiling updated ang Maternal Health Record"
+            },
+            {
+              "type": "listItem",
+              "text": "Ipagpatuloy ang pag-rekord ng petsa ng bawat prenatal visit at ng susunod na appointment"
+            },
+            {
+              "type": "listItem",
+              "text": "Panatilihing kumpleto at nasa iisang lagayan gaya ng folder o envelope ang mga mga rekord ng laboratory tests at iba pang eksaminasyon na iniutos o nireseta ng doktor o healthcare provider."
+            },
+            {
+              "type": "listItem",
+              "text": "Tiyaking updated ang vaccination records sa bawat pagkakataon na magpapabakuna. Nilalaman dapat nito ang:"
+            },
+            {
+              "type": "listItem",
+              "text": "Uri at pangalan ng bakuna"
+            },
+            {
+              "type": "listItem",
+              "text": "Dosage"
+            },
+            {
+              "type": "listItem",
+              "text": "Petsa kung kailan ibinakuna"
+            },
+            {
+              "type": "listItem",
+              "text": "Petsa ng susunod na dose o pagbakuna"
+            },
+            {
+              "type": "listItem",
+              "text": "Pangalan ng healthcare provider na nagbakuna"
+            },
+            {
+              "type": "listItem",
+              "text": "Itala sa isang papel o sa anumang gadyet ang bawat payo o tagubilin na ininigay ng healthcare provider, lalo na ang mga nangangailangan ng follow-up appointment"
+            },
+            {
+              "type": "listItem",
+              "text": "Itala at subaybayan ang mga gamot o food supplements na nireseta o inirekomenda ng healthcare provider. Alamin ang mga sumusunod:"
+            },
+            {
+              "type": "listItem",
+              "text": "Uri ng gamot o food supplement;"
+            },
+            {
+              "type": "listItem",
+              "text": "Paano gamitin; at"
+            },
+            {
+              "type": "listItem",
+              "text": "Kailan gagamitin"
+            },
+            {
+              "type": "listItem",
+              "text": "Kung mayroon, itagong mabuti ang referral slip na siyang kailangan upang matanggap ang serbisyong pangkalusugan na ipinasasangguni ng healthcare provider."
+            }
+          ]
+        },
+        {
+          "id": "third",
+          "title": "Third trimester (7-9 months)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Layunin: Panatilihing updated ang Maternal Health Record at ihanda ito para sa panganganak at postpartum care"
+            },
+            {
+              "type": "heading",
+              "text": "Bago manganak tiyaking ipagpatuloy ang pagtala ng mga sumusunod:",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Petsa ng prenatal check-up at susunod na appointment"
+            },
+            {
+              "type": "listItem",
+              "text": "Mga laboratory at diagnostic test na isinagawa at ang kanilang mga resulta"
+            },
+            {
+              "type": "listItem",
+              "text": "Mga bakuna na natanggap"
+            },
+            {
+              "type": "listItem",
+              "text": "Mga gamot o food supplements na nireseta o inirekomenda ng healthcare provider"
+            },
+            {
+              "type": "listItem",
+              "text": "Itala ang mga mahahalagang referrals, follow-up appointments at instructions mula sa healthcare provider."
+            },
+            {
+              "type": "heading",
+              "text": "Kapag pupunta sa healthcare facility:",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Panatilihing maayos, organisado at laging dala ang mga importanteng dokumento katulad ng Maternal Health Record, mga laboratory/test results at referral documents kung mayroon."
+            },
+            {
+              "type": "heading",
+              "text": "Pagkatapos manganak:",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Itago nang maayos ang maternal/postpartum records at ihiwalay ng maayos ang immunization records ni baby."
+            },
+            {
+              "type": "listItem",
+              "text": "Itala ang petsa ng panganganak at mga susunod na maternal follow-up appointments ni mother at immunization appointments ni baby ayon sa healthcare provider."
+            },
+            {
+              "type": "heading",
+              "text": "Paalala:",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Ang mga sumusunod na larawan ay halimbawa lamang, at maaaring magbago ayon sa barangay health center, institusyon ng hospital, o healthcare provider"
+            },
+            {
+              "type": "heading",
+              "text": "Nanay Book, Mother-Baby Book, or Mother and Child Book of DOH",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "image",
+              "index": 1
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo Retrieved from Scribd (n.d.)"
+            },
+            {
+              "type": "heading",
+              "text": "Prenatal Care Visit Record",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "image",
+              "index": 2
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo Retrieved from Madronero, T.M. (2024)"
+            },
+            {
+              "type": "heading",
+              "text": "Obstetrical Ultrasound",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "image",
+              "index": 3
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo Retrieved from DexForm (n.d.)"
+            },
+            {
+              "type": "heading",
+              "text": "Referral Slip o Form",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "image",
+              "index": 4
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo Retrieved from Macawili, A. (2024)"
+            },
+            {
+              "type": "image",
+              "index": 5
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo Retrieved from Drogy Pathology Lab. (n.d.)."
+            },
+            {
+              "type": "image",
+              "index": 6
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo Retrieved from Department of Health Regional Office XI (n.d.)"
+            }
+          ]
+        },
+        {
+          "id": "references",
+          "title": "Reference:",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "https://www.who.int/tools/your-life-your-health/life-phase/pregnancy--birth-and-after-childbirth/getting-the-health-services-you-need-during-pregnancy"
+            },
+            {
+              "type": "paragraph",
+              "text": "World Health Organization. (2024). Antenatal care for a positive pregnancy experience: Health worker training manual. WHO Regional Office for Africa."
+            },
+            {
+              "type": "paragraph",
+              "text": "WHO & UNICEF. (2023, February 7). Strengthening implementation of home-based records for maternal, newborn and child health: a guide for country programme managers. World Health Organization. https://www.who.int/publications/i/item/9789240060586"
+            },
+            {
+              "type": "heading",
+              "text": "Image Sources",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Department of Health Regional Office XI. (n.d.). Immunization program. https://ro11.doh.gov.ph/immunization-program/"
+            },
+            {
+              "type": "paragraph",
+              "text": "Drogy Pathology Lab. (n.d.). HCG, beta, total, pregnancy [Laboratory report]. Scribd. https://images.drlogy.com/assets/uploads/lab/pdf/BETA-HCG-test-report-format-example-sample-template-Drlogy-lab-report.pdf"
+            },
+            {
+              "type": "paragraph",
+              "text": "Macawili, A. (2024). Rural Health Unit Referral Slip. Scribd. https://www.scribd.com/document/727902500/REFERRAL-SLIP-BHS-TO-RHU"
+            },
+            {
+              "type": "paragraph",
+              "text": "Madronero, T. M. (2024). Prenatal Visit Record Template. SCRIBD. Retrieved September 21, 2026, from https://www.scribd.com/document/727976916/PRENATAL-CARE-ITR-1"
+            },
+            {
+              "type": "paragraph",
+              "text": "OB ultrasound report template. (n.d.). DexForm. https://www.dexform.com/download/ob-ultrasound-report-template#google_vignette"
+            },
+            {
+              "type": "paragraph",
+              "text": "MCH Nanay & Baby Book. (n.d.). Scribd. https://www.scribd.com/document/599821688/1-MCH-Nanay-Baby-Book"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

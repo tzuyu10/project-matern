@@ -1,0 +1,10 @@
+# Local source files and artifacts that the running site does not use.
+AGENTS.md
+CLAUDE.md
+tmp/
+.source-backup/
+scripts/
+public/assets/
+public/images/topic-placeholder.svg
+public/images/mother-placeholder.svg
+public/media/brand-logo-stacked.webp
