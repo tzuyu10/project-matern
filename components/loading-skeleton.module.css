@@ -62,4 +62,5 @@
   .info { padding-top: 24px; }
   .infoLogo { width: min(280px, 65vw); }
 }
+@media (min-width: 1024px) { .cardGrid { grid-template-columns: repeat(5, minmax(0, 1fr)); } }
 @media (prefers-reduced-motion: reduce) { .skeleton { animation: none; } }

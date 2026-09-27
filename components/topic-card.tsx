@@ -16,7 +16,7 @@ export function TopicCard({ topic }: { topic: Topic }) {
           src={topic.cardImage}
           alt=""
           fill
-          sizes="(max-width: 760px) 45vw, (max-width: 1100px) 30vw, 280px"
+          sizes="(max-width: 760px) 45vw, (max-width: 1023px) 30vw, (max-width: 1336px) 18vw, 230px"
           className={styles.art}
         />
         <h3 className={styles.heading}>{topic.title}</h3>
