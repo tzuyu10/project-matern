@@ -942,13 +942,41 @@
         },
         {
           "id": "references",
-          "title": "Reference:",
+          "title": "References",
           "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Murray, S. S., McKinney, E. S., Holub, K. S., & Jones, R. (2019). Foundations of Maternal-newborn and Women's Health Nursing. Elsevier."
+            },
+            {
+              "type": "paragraph",
+              "text": "DOH CAR. (n.d.). Mommy, complete your antenatal check-ups to ensure your pregnancy is safe. https://caro.doh.gov.ph/%F0%9F%A4%B0mommy-complete-your-antenatal-check-ups-to-ensure-your-pregnancy-is-safe-%F0%9F%A9%BA/"
+            },
+            {
+              "type": "paragraph",
+              "text": "National Nutrition Council. (2025, November 16). How often do you need prenatal visits? https://nnc.gov.ph/mindanao-region/how-often-do-you-need-prenatal-visits/"
+            },
+            {
+              "type": "paragraph",
+              "text": "UNICEF. (2023, June 18). Your first trimester guide. https://www.unicef.org/eca/stories/your-first-trimester-guide"
+            },
+            {
+              "type": "paragraph",
+              "text": "UNICEF. (2026, July 22). Your second trimester guide. https://www.unicef.org/uzbekistan/en/stories/your-second-trimester-guide"
+            },
+            {
+              "type": "paragraph",
+              "text": "World Health Organization. (2016). WHO recommendations on antenatal care for a positive pregnancy experience. https://www.who.int/publications/i/item/9789241549912"
+            },
             {
               "type": "heading",
               "text": "Image Sources",
               "level": 3,
               "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "https://share.google/images/G5CCeCq0KPavsJTZz"
             }
           ]
         }
@@ -3080,12 +3108,24 @@
               "text": "Photo Retrieved from Macawili, A. (2024)"
             },
             {
+              "type": "heading",
+              "text": "Laboratory Results",
+              "level": 3,
+              "italic": false
+            },
+            {
               "type": "image",
               "index": 5
             },
             {
               "type": "paragraph",
               "text": "Photo Retrieved from Drogy Pathology Lab. (n.d.)."
+            },
+            {
+              "type": "heading",
+              "text": "Child Immunization Record",
+              "level": 3,
+              "italic": false
             },
             {
               "type": "image",
