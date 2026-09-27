@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     template: "%s | Project M.A.T.E.R.N.",
   },
   description:
-    "A maternal health information website prototype, supporting every stage of motherhood.",
+    "Filipino maternal health guides for pregnancy, childbirth, recovery, family planning, and the days that follow.",
   // Replace these files to change the browser tab and phone home-screen icons.
   icons: {
     icon: "/favicon-clean.png",

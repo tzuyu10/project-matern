@@ -1,0 +1,65 @@
+.shell { width: min(1240px, calc(100% - 2 * var(--page-gutter))); margin: 0 auto; padding: 32px 0 72px; }
+.srOnly { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+.skeleton { display: block; border: 1px solid var(--line); background: linear-gradient(100deg, var(--blush) 8%, color-mix(in srgb, var(--blush) 45%, var(--paper)) 18%, var(--blush) 33%); background-size: 220% 100%; animation: shimmer 1.7s ease-in-out infinite; }
+.line { height: 16px; border-radius: 6px; }
+.eyebrow { width: 190px; max-width: 65%; height: 12px; margin-bottom: 28px; }
+.titleWide, .titleMedium, .titleShort, .sectionTitle, .infoTitle, .infoTitleShort { height: clamp(36px, 4vw, 56px); margin-bottom: 12px; border-radius: 8px; }
+.titleWide { width: 94%; }.titleMedium { width: 75%; }.titleShort { width: 60%; margin-bottom: 30px; }
+.bodyWide { width: 88%; margin-bottom: 12px; }.bodyMedium { width: 66%; margin-bottom: 12px; }
+.homeHero { display: grid; grid-template-columns: 1fr 1fr; min-height: 560px; overflow: hidden; border: 1px solid var(--line); border-radius: 8px; }
+.heroCopy { display: flex; flex-direction: column; justify-content: center; padding: clamp(24px, 5vw, 72px); }
+.heroImage { min-height: 560px; border: 0; border-radius: 0; }
+.button { width: 210px; height: 52px; margin-top: 26px; border-radius: 6px; }
+.journey { display: flex; gap: 24px; justify-content: space-between; padding: 22px 0; border-bottom: 1px solid var(--line); }
+.journey .line { width: 17%; }
+.topics { padding-top: 48px; }
+.sectionTitle { width: min(480px, 75%); margin-bottom: 20px; }
+.filterRow { display: flex; gap: 12px; margin: 32px 0 26px; }
+.filterRow .line { width: 110px; height: 36px; border-radius: 22px; }
+.cardGrid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; }
+.card { height: 300px; padding: 16px; border: 1px solid var(--line); border-radius: 16px; }
+.cardArt { height: 78%; border-radius: 50% 50% 10px 10px; }
+.cardTitle { width: 75%; height: 20px; margin-top: 14px; }
+.topicLayout { display: grid; grid-template-columns: 280px minmax(0, 1fr); gap: 42px; }
+.rail { padding-right: 22px; border-right: 1px solid var(--line); }
+.railBack { width: 130px; margin: 4px 0 30px; }
+.railCurrent { display: flex; align-items: center; gap: 12px; padding: 14px; margin-bottom: 28px; border: 1px solid var(--line); border-radius: 9px; }
+.railIcon { width: 42px; height: 42px; flex: none; border-radius: 50%; }
+.railTitle { width: 65%; height: 20px; }
+.railItem { width: 80%; margin: 14px 0 20px; }
+.breadcrumb { width: 220px; height: 13px; margin-bottom: 24px; }
+.articleHero { display: flex; justify-content: space-between; gap: 24px; min-height: 270px; padding: 40px; margin-bottom: 50px; border: 1px solid var(--line); border-radius: 8px; }
+.articleHero > div { width: min(600px, 80%); }
+.articleIcon { width: 100px; height: 100px; flex: none; border-radius: 50%; }
+.articleMedia { width: min(100%, 620px); height: 280px; margin-top: 30px; border-radius: 12px; }
+.info { padding-top: clamp(24px, 3vw, 40px); }
+.infoLogo { width: 280px; height: 140px; margin-bottom: 28px; border-radius: 12px; }
+.infoIcon { width: 42px; height: 42px; margin-bottom: 24px; border-radius: 8px; }
+.infoTitle { width: min(560px, 80%); }.infoTitleShort { width: min(360px, 60%); margin-bottom: 30px; }
+.infoRows { display: grid; gap: 28px; margin-top: 50px; }
+.infoRows > div { padding: 20px 0; border-top: 1px solid var(--line); }
+@keyframes shimmer { from { background-position-x: 100%; } to { background-position-x: -100%; } }
+@media (max-width: 900px) { .cardGrid { grid-template-columns: repeat(3, minmax(0, 1fr)); } .topicLayout { grid-template-columns: 220px minmax(0, 1fr); gap: 28px; } }
+@media (max-width: 760px) {
+  .shell { padding: 24px 0 52px; }
+  .homeHero { display: flex; flex-direction: column; }
+  .heroCopy { padding: 40px 24px; }
+  .heroImage { min-height: 230px; }
+  .journey { flex-wrap: wrap; gap: 12px; }
+  .journey .line { width: calc(50% - 6px); }
+  .topics { padding-top: 36px; }
+  .filterRow { overflow: hidden; }
+  .filterRow .line { min-width: 84px; }
+  .cardGrid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+  .card { height: 235px; padding: 10px; }
+  .cardTitle { height: 16px; }
+  .topicLayout { display: block; }
+  .rail { padding: 0 0 16px; margin-bottom: 24px; border-right: 0; border-bottom: 1px solid var(--line); }
+  .railItem { display: none; }
+  .articleHero { min-height: 220px; padding: 24px; }
+  .articleIcon { width: 64px; height: 64px; }
+  .articleMedia { height: 190px; }
+  .info { padding-top: 24px; }
+  .infoLogo { width: min(280px, 65vw); }
+}
+@media (prefers-reduced-motion: reduce) { .skeleton { animation: none; } }

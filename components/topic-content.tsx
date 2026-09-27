@@ -2,9 +2,9 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { Fragment, type ReactNode, useEffect, useMemo, useState } from "react";
+import { Fragment, useState } from "react";
 import { ArrowLeft, ArrowRight, ChevronDown } from "lucide-react";
-import { getApprovedTopic, type ContentBlock, type ContentSection } from "@/lib/content";
+import { type ApprovedTopicContent, type ContentBlock, type ContentSection } from "@/lib/content";
 import { articleImageWidth, contentImageSizes } from "@/lib/content-image-sizes";
 import { displayHeading } from "@/lib/display-heading";
 import { topics, type Topic } from "@/lib/topics";
@@ -17,8 +17,29 @@ function renderLinkedText(text: string) {
     : <Fragment key={index}>{part}</Fragment>);
 }
 
-function sectionHeadings(section: ContentSection) {
-  return section.blocks
+function displayBlocks(section: ContentSection): ContentBlock[] {
+  if (!section.id.startsWith("references")) return section.blocks;
+
+  const imageSourcesIndex = section.blocks.findIndex(
+    (block) => block.type === "heading" && /^image sources?:?$/i.test(block.text.trim()),
+  );
+  const references = imageSourcesIndex === -1 ? section.blocks : section.blocks.slice(0, imageSourcesIndex);
+  const imageSources = imageSourcesIndex === -1 ? [] : section.blocks.slice(imageSourcesIndex + 1);
+  const hasEntry = (blocks: ContentBlock[]) => blocks.some(
+    (block) => block.type === "paragraph" ? block.text.trim().length > 0 : block.type !== "heading",
+  );
+
+  return [
+    ...references,
+    ...(!hasEntry(references) ? [{ type: "paragraph" as const, text: "Walang nakalistang sanggunian para sa paksang ito." }] : []),
+    imageSourcesIndex === -1 ? { type: "heading", text: "Image Sources" } : section.blocks[imageSourcesIndex],
+    ...imageSources,
+    ...(!hasEntry(imageSources) ? [{ type: "paragraph" as const, text: "Walang nakalistang pinagmulan ng larawan para sa paksang ito." }] : []),
+  ];
+}
+
+function sectionHeadings(blocks: ContentBlock[]) {
+  return blocks
     .map((block, index) => block.type === "heading" ? { index, text: block.text } : null)
     .filter((item): item is { index: number; text: string } => Boolean(item));
 }
@@ -51,18 +72,10 @@ function ContentBlockView({ block, index, topic }: { block: ContentBlock; index:
   return <h3 id={`content-heading-${index}`} className={block.italic ? "is-italic" : ""}>{displayHeading(block.text)}</h3>;
 }
 
-export function TopicContent({ topic, initialStage }: { topic: Topic; initialStage?: string }) {
-  const approved = getApprovedTopic(topic.slug);
-  const sections = useMemo(() => approved?.sections || [], [approved]);
-  const requestedSection = sections.some((section) => section.id === initialStage) ? initialStage! : sections[0]?.id || "";
-  const [openSection, setOpenSection] = useState(requestedSection);
+export function TopicContent({ topic, approved }: { topic: Topic; approved: ApprovedTopicContent }) {
+  const sections = approved.sections;
+  const [openSection, setOpenSection] = useState(sections[0]?.id || "");
   const next = topics[(topics.findIndex((item) => item.slug === topic.slug) + 1) % topics.length];
-
-  useEffect(() => {
-    if (!initialStage || !sections.some((section) => section.id === initialStage)) return;
-    const timer = window.setTimeout(() => document.getElementById(`section-${initialStage}`)?.scrollIntoView({ behavior: "smooth", block: "start" }), 120);
-    return () => window.clearTimeout(timer);
-  }, [initialStage, sections]);
 
   function jumpTo(targetId: string) {
     window.requestAnimationFrame(() => {
@@ -70,8 +83,6 @@ export function TopicContent({ topic, initialStage }: { topic: Topic; initialSta
       window.history.replaceState(null, "", `#${targetId}`);
     });
   }
-
-  if (!approved) return null;
 
   return <main id="main" className="container content-page-layout">
     <aside className="contents-rail">
@@ -83,7 +94,7 @@ export function TopicContent({ topic, initialStage }: { topic: Topic; initialSta
       <span className="contents-label">On This Page</span>
       <nav aria-label={`${topic.title} contents`}>
         {sections.map((section) => {
-          const headings = sectionHeadings(section);
+          const headings = sectionHeadings(displayBlocks(section));
           return <div className="contents-group" key={section.id}>
             <button type="button" onClick={() => setOpenSection(openSection === section.id ? "" : section.id)} aria-expanded={openSection === section.id} aria-controls={`contents-${section.id}`}>
               <span>{displayHeading(section.title)}</span><ChevronDown size={15} />
@@ -112,7 +123,7 @@ export function TopicContent({ topic, initialStage }: { topic: Topic; initialSta
           <div className="stage-number">{String(sectionIndex + 1).padStart(2, "0")}</div>
           <div className="stage-title"><span>PROJECT M.A.T.E.R.N.</span><h2>{displayHeading(section.title)}</h2></div>
           <div className="approved-content">
-            {section.blocks.map((block, blockIndex) => block.type === "heading"
+            {displayBlocks(section).map((block, blockIndex) => block.type === "heading"
               ? <h3 id={`${section.id}-heading-${blockIndex}`} className={block.italic ? "is-italic" : ""} key={blockIndex}>{displayHeading(block.text)}</h3>
               : <ContentBlockView key={blockIndex} block={block} index={blockIndex} topic={topic} />)}
           </div>

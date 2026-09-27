@@ -12,6 +12,8 @@ const englishTerms = [
 ];
 
 export function displayHeading(text: string) {
+  if (text.trim().toLowerCase() === "reference:") return "References";
+
   return englishTerms.reduce(
     (result, term) => result.replace(new RegExp(`\\b${term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`, "gi"), term),
     text,
