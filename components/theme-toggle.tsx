@@ -12,7 +12,7 @@ export function ThemeToggle() {
     setDark(document.documentElement.classList.contains("dark"));
     const media = window.matchMedia("(prefers-color-scheme: dark)");
     const followSystemTheme = (event: MediaQueryListEvent) => {
-      if (localStorage.getItem(storageKey)) return;
+      try { if (localStorage.getItem(storageKey)) return; } catch {}
       document.documentElement.classList.toggle("dark", event.matches);
       setDark(event.matches);
     };
@@ -23,7 +23,7 @@ export function ThemeToggle() {
   function toggleTheme() {
     const nextThemeIsDark = !document.documentElement.classList.contains("dark");
     document.documentElement.classList.toggle("dark", nextThemeIsDark);
-    localStorage.setItem(storageKey, nextThemeIsDark ? "dark" : "light");
+    try { localStorage.setItem(storageKey, nextThemeIsDark ? "dark" : "light"); } catch {}
     setDark(nextThemeIsDark);
   }
 

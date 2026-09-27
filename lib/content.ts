@@ -3,7 +3,7 @@ import sourceContent from "./project-content.json";
 export type ContentBlock =
   | { type: "heading"; text: string; level?: number; italic?: boolean }
   | { type: "paragraph"; text: string }
-  | { type: "listItem"; text: string }
+  | { type: "listItem"; text: string; label?: string }
   | { type: "table"; rows: string[][] }
   | { type: "image"; index: number };
 

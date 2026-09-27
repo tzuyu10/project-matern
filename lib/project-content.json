@@ -1740,7 +1740,7 @@
               "type": "heading",
               "text": "Pagduduwal at Pagsusuka",
               "level": 3,
-              "italic": true
+              "italic": false
             },
             {
               "type": "listItem",
@@ -1762,7 +1762,7 @@
               "type": "heading",
               "text": "Pagkapagod",
               "level": 3,
-              "italic": true
+              "italic": false
             },
             {
               "type": "listItem",
@@ -1776,7 +1776,7 @@
               "type": "heading",
               "text": "Pagkahilo",
               "level": 3,
-              "italic": true
+              "italic": false
             },
             {
               "type": "listItem",
@@ -1794,7 +1794,7 @@
               "type": "heading",
               "text": "Madalas na Pag-ihi",
               "level": 3,
-              "italic": true
+              "italic": false
             },
             {
               "type": "listItem",
@@ -1903,10 +1903,14 @@
               "italic": false
             },
             {
+              "type": "paragraph",
+              "text": "Maaaring makaranas ng mga sintomas na sumusunod:"
+            },
+            {
               "type": "heading",
               "text": "Pananakit ng Likod",
               "level": 3,
-              "italic": true
+              "italic": false
             },
             {
               "type": "listItem",
@@ -1920,7 +1924,7 @@
               "type": "heading",
               "text": "Pamamaga ng Paa at Kamay",
               "level": 3,
-              "italic": true
+              "italic": false
             },
             {
               "type": "listItem",
@@ -1948,7 +1952,7 @@
               "type": "heading",
               "text": "Pagdurugo sa ari",
               "level": 3,
-              "italic": true
+              "italic": false
             },
             {
               "type": "listItem",
@@ -1962,7 +1966,7 @@
               "type": "heading",
               "text": "Pagputok o paglabas ng panubigan",
               "level": 3,
-              "italic": true
+              "italic": false
             },
             {
               "type": "listItem",
@@ -1976,7 +1980,7 @@
               "type": "heading",
               "text": "Nabawasan ang paggalaw ng sanggol",
               "level": 3,
-              "italic": true
+              "italic": false
             },
             {
               "type": "listItem",
@@ -1990,7 +1994,7 @@
               "type": "heading",
               "text": "Madalas o masakit na paghilab ng tiyan",
               "level": 3,
-              "italic": true
+              "italic": false
             },
             {
               "type": "listItem",
@@ -2004,7 +2008,7 @@
               "type": "heading",
               "text": "Matinding pananakit ng ulo o malabong paningin",
               "level": 3,
-              "italic": true
+              "italic": false
             },
             {
               "type": "listItem",
@@ -2018,7 +2022,7 @@
               "type": "heading",
               "text": "Pangingisay",
               "level": 3,
-              "italic": true
+              "italic": false
             },
             {
               "type": "listItem",
@@ -2028,7 +2032,7 @@
               "type": "heading",
               "text": "Matinding pananakit ng tiyan",
               "level": 3,
-              "italic": true
+              "italic": false
             },
             {
               "type": "listItem",
@@ -2042,7 +2046,7 @@
               "type": "heading",
               "text": "Lagnat o panginginig",
               "level": 3,
-              "italic": true
+              "italic": false
             },
             {
               "type": "listItem",
@@ -2217,9 +2221,8 @@
               "level": 3
             },
             {
-              "type": "heading",
-              "text": "Ang body image ay kung paano nakikita at nararamdaman ng babae ang pagbabago sa kanyang katawan habang buntis. Sa second trimester, mas kapansin-pansin ang paglaki ng abdomen, breasts, at pagbabago ng body shape. Maaaring tanggapin at ikatuwa ng iba ang mga pagbabagong ito dahil tanda ito ng paglaki ng baby, ngunit maaari rin itong magdulot ng negative feelings tungkol sa sariling katawan.",
-              "level": 3
+              "type": "paragraph",
+              "text": "Ang body image ay kung paano nakikita at nararamdaman ng babae ang pagbabago sa kanyang katawan habang buntis. Sa second trimester, mas kapansin-pansin ang paglaki ng abdomen, breasts, at pagbabago ng body shape. Maaaring tanggapin at ikatuwa ng iba ang mga pagbabagong ito dahil tanda ito ng paglaki ng baby, ngunit maaari rin itong magdulot ng negative feelings tungkol sa sariling katawan."
             },
             {
               "type": "heading",
@@ -2227,9 +2230,8 @@
               "level": 3
             },
             {
-              "type": "heading",
-              "text": "Sa pagbubuntis, maaaring magbago ang sexual interest at activity ng babae at ng kanyang partner. Maaaring tumaas ang sexual responsiveness dahil nababawasan ang nausea at maaaring bumalik ang energy at sense of well-being. Maaari ring maapektuhan ang sexual activity ng physical changes, discomfort, at emotional concerns tungkol sa pregnancy.",
-              "level": 3
+              "type": "paragraph",
+              "text": "Sa pagbubuntis, maaaring magbago ang sexual interest at activity ng babae at ng kanyang partner. Maaaring tumaas ang sexual responsiveness dahil nababawasan ang nausea at maaaring bumalik ang energy at sense of well-being. Maaari ring maapektuhan ang sexual activity ng physical changes, discomfort, at emotional concerns tungkol sa pregnancy."
             },
             {
               "type": "heading",
@@ -2377,37 +2379,22 @@
               "type": "heading",
               "text": "Rubin’s Phases of Maternal Role Attainment:",
               "level": 3,
-              "italic": true
-            },
-            {
-              "type": "heading",
-              "text": "Taking-in phase",
-              "level": 3,
               "italic": false
             },
             {
               "type": "listItem",
-              "text": "Panahong nakatuon lang ang ina sa sarili at sa kanyang karanasan sa panganganak; “Ako muna”"
-            },
-            {
-              "type": "heading",
-              "text": "Taking-hold phase",
-              "level": 3,
-              "italic": false
+              "text": "Panahong nakatuon lang ang ina sa sarili at sa kanyang karanasan sa panganganak; “Ako muna”",
+              "label": "Taking-in phase"
             },
             {
               "type": "listItem",
-              "text": "Panahong nagsisimula nang matutong mag-alaga ng kanyang sanggol at magkaroon ng kumpiyansa bilang ina; “Kaya ko nang alagaan ang aking sanggol.”"
-            },
-            {
-              "type": "heading",
-              "text": "Letting-go phase",
-              "level": 3,
-              "italic": false
+              "text": "Panahong nagsisimula nang matutong mag-alaga ng kanyang sanggol at magkaroon ng kumpiyansa bilang ina; “Kaya ko nang alagaan ang aking sanggol.”",
+              "label": "Taking-hold phase"
             },
             {
               "type": "listItem",
-              "text": "Panahong tinatanggap na ng ina ang kanyang bagong papel ar responsibilidad bilang isang ina; “Tanggap ko na ang aking pagiging ina.”"
+              "text": "Panahong tinatanggap na ng ina ang kanyang bagong papel ar responsibilidad bilang isang ina; “Tanggap ko na ang aking pagiging ina.”",
+              "label": "Letting-go phase"
             },
             {
               "type": "heading",
@@ -2919,7 +2906,7 @@
               "text": "Panatilihing kumpleto at nasa iisang lagayan gaya ng folder o envelope ang mga mga rekord ng laboratory tests at iba pang eksaminasyon na iniutos o nireseta ng doktor o healthcare provider."
             },
             {
-              "type": "listItem",
+              "type": "paragraph",
               "text": "Tiyaking updated ang vaccination records sa bawat pagkakataon na magpapabakuna. Nilalaman dapat nito ang:"
             },
             {
@@ -2943,11 +2930,11 @@
               "text": "Pangalan ng healthcare provider na nagbakuna"
             },
             {
-              "type": "listItem",
+              "type": "paragraph",
               "text": "Itala sa isang papel o sa anumang gadyet ang bawat payo o tagubilin na ininigay ng healthcare provider, lalo na ang mga nangangailangan ng follow-up appointment"
             },
             {
-              "type": "listItem",
+              "type": "paragraph",
               "text": "Itala at subaybayan ang mga gamot o food supplements na nireseta o inirekomenda ng healthcare provider. Alamin ang mga sumusunod:"
             },
             {
@@ -2963,7 +2950,7 @@
               "text": "Kailan gagamitin"
             },
             {
-              "type": "listItem",
+              "type": "paragraph",
               "text": "Kung mayroon, itagong mabuti ang referral slip na siyang kailangan upang matanggap ang serbisyong pangkalusugan na ipinasasangguni ng healthcare provider."
             }
           ]

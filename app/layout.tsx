@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Script from "next/script";
 import { Footer, Header } from "@/components/navigation";
 import { BackToTop } from "@/components/back-to-top";
 import "./globals.css";
@@ -19,13 +18,13 @@ export const metadata: Metadata = {
 };
 
 const themeInitializer = `
-  try {
-    const saved = localStorage.getItem("matern-theme");
-    const dark = saved
-      ? saved === "dark"
-      : matchMedia("(prefers-color-scheme: dark)").matches;
+  (() => {
+    let saved;
+    try { saved = localStorage.getItem("matern-theme"); } catch {}
+    const dark = saved === "dark" ||
+      (saved !== "light" && matchMedia("(prefers-color-scheme: dark)").matches);
     document.documentElement.classList.toggle("dark", dark);
-  } catch {}
+  })();
 `;
 
 export default function RootLayout({
@@ -33,10 +32,11 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" data-scroll-behavior="smooth" suppressHydrationWarning>
+      <head>
+        {/* Run while parsing the document, before the themed body is painted. */}
+        <script id="theme-init" dangerouslySetInnerHTML={{ __html: themeInitializer }} />
+      </head>
       <body>
-        <Script id="theme-init" strategy="beforeInteractive">
-          {themeInitializer}
-        </Script>
         <a className="skip-link" href="#main">
           Skip to content
         </a>

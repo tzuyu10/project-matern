@@ -219,7 +219,7 @@ html { background-color: var(--blush); }
   grid-template-columns: 46% minmax(0, 1fr);
   min-height: 0;
   padding-bottom: 0;
-  background: linear-gradient(110deg, #8F3352, #BB4367 45%, #FC9BBA);
+  background: #FFFFFF;
 }
 .clinical-hero-media > .landing-photo {
   position: relative !important;
@@ -241,6 +241,123 @@ html { background-color: var(--blush); }
   min-height: 0;
 }
 .clinical-hero-shade { display: none; }
+.clinical-hero-media { background: #FC9BBA; }
+.clinical-hero-media::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(ellipse at 8% 12%, #FFF0F652, transparent 42%),
+    radial-gradient(ellipse at 40% 88%, #FF75A899, transparent 45%);
+}
+.clinical-hero-copy {
+  background: linear-gradient(135deg, #FFF0F63D, #FC9BBA99);
+  color: #432432;
+  border: 1px solid #FFFFFF2E;
+  box-shadow: inset 0 1px 0 #FFFFFF33, inset 0 -1px 0 #FFFFFF14, 8px 0 28px #591C320D;
+  -webkit-backdrop-filter: blur(24px) saturate(1.1);
+  backdrop-filter: blur(24px) saturate(1.1);
+}
+.clinical-hero-copy h1 {
+  color: #591C32;
+  max-width: 18ch;
+  text-wrap: balance;
+  line-height: 1.12;
+  letter-spacing: -.035em;
+}
+.clinical-hero-copy .hero-kicker { color: #591C32; }
+.clinical-hero-copy p { color: #343038; max-width: 52ch; text-wrap: pretty; }
+.clinical-hero-copy .button { background: #8F3352; color: #FFFFFF; }
+.clinical-hero-copy .button:hover { background: #762641; }
+.clinical-hero-copy .hero-text-link { color: #591C32; border-color: #591C32; }
+html.dark .clinical-hero-media { background: #591C32; }
+html.dark .clinical-hero-media > .landing-photo { filter: brightness(.82); }
+html.dark .clinical-hero-media::before {
+  background: radial-gradient(ellipse at 8% 12%, #BB436788, transparent 42%),
+    radial-gradient(ellipse at 40% 88%, #FC9BBA33, transparent 45%);
+}
+html.dark .clinical-hero-copy {
+  background: linear-gradient(135deg, #591C32B8, #591C32E6);
+  border-color: #FC9BBA26;
+  box-shadow: inset 0 1px 0 #FFF0F610, inset 0 -1px 0 #FC9BBA0D, 8px 0 28px #00000020;
+}
+@supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .clinical-hero-copy { background: #FC9BBA; }
+  html.dark .clinical-hero-copy { background: #591C32; }
+}
+html.dark .clinical-hero-copy h1 { color: #FFFFFF; }
+html.dark .clinical-hero-copy .hero-kicker { color: #FFF0F6; }
+html.dark .clinical-hero-copy p { color: #F5F5F5; }
+html.dark .clinical-hero-copy .hero-text-link { color: #FAEDF1; border-color: #FC9BBA; }
+html.dark .clinical-hero-copy .button { background: #FC9BBA; color: #432432; }
+html.dark .clinical-hero-copy .button:hover { background: #FFD3E2; }
+
+/* Keep desktop navigation in view with scrolling but no visible scrollbar. */
+.contents-rail {
+  position: sticky;
+  top: 92px;
+  max-height: calc(100dvh - 115px);
+  overflow-y: auto;
+  overflow-x: hidden;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.contents-rail::-webkit-scrollbar { display: none; width: 0; height: 0; }
+.contents-other { display: grid; }
+.contents-other a { overflow-wrap: anywhere; }
+.contents-other-mobile { display: none; }
+@media (max-width: 760px) {
+  .contents-other-desktop { display: none; }
+  .contents-other-mobile { display: grid; margin-top: 16px; padding-top: 12px; }
+  .contents-other.contents-other-mobile a { flex-direction: column; align-items: flex-start; gap: 2px; padding: 4px 0; border: 0; border-radius: 0; background: transparent; color: var(--berry); font-size: 12px; line-height: 1.4; font-weight: 500; }
+  .contents-other-mobile small { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 11px; font-weight: 400; }
+  .contents-other.contents-other-mobile a[rel="next"] { grid-column: 2; align-items: flex-end; text-align: right; }
+  .contents-rail { position: relative; top: auto; max-height: none; overflow: visible; }
+  .contents-other { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px 12px; }
+  .contents-other > span { grid-column: 1 / -1; }
+  .contents-other a { display: flex; align-items: center; min-height: 44px; }
+}
+.content-list-label { color: var(--berry); font-size: 1em; font-weight: 700; font-style: normal; }
+.contents-group { border-left: 3px solid transparent; padding-left: 10px; transition: border-color .2s ease, background-color .2s ease; }
+.contents-group.is-current-section { border-left-color: var(--rose); background: var(--blush); }
+.reading-scroll-indicator {
+  opacity: 0;
+  transition: opacity .25s ease;
+  position: fixed;
+  top: 110px;
+  bottom: calc(88px + env(safe-area-inset-bottom, 0px));
+  right: calc(4px + env(safe-area-inset-right, 0px));
+  width: 4px;
+  z-index: 20;
+  border-radius: 4px;
+  background: var(--line);
+  pointer-events: none;
+}
+.reading-scroll-indicator.is-scrolling { opacity: 1; }
+@media (min-width: 761px) {
+  .content-page-layout {
+    --sidebar-width: 280px;
+    --article-gap: clamp(28px, 4vw, 48px);
+    grid-template-columns: var(--sidebar-width) minmax(0, 1fr);
+    gap: var(--article-gap);
+  }
+}
+@media (min-width: 761px) and (max-width: 1000px) {
+  .content-page-layout { --sidebar-width: 220px; --article-gap: var(--space-6); }
+}
+.reading-scroll-thumb {
+  position: absolute;
+  width: 100%;
+  height: 10%;
+  border-radius: inherit;
+  background: var(--rose);
+}
+@media (max-width: 760px) {
+  .reading-scroll-indicator { top: 80px; width: 3px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .contents-group, .reading-scroll-indicator { transition: none; }
+}
 @media (min-width: 1101px) {
   .clinical-hero-copy { padding-block: 32px; padding-inline: clamp(32px, 4vw, 76px); }
   .clinical-hero-copy h1 { font-size: clamp(34px, 3.3vw, 64px); }
