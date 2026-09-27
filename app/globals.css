@@ -159,6 +159,60 @@ h1, h2, h3, .content-block h3, .approved-content h3, .contents-current strong, .
   .clinical-hero-copy .button { white-space: nowrap; }
 }
 
+.mobile-back-to-top { display: none; }
+@media (max-width: 760px) {
+  .mobile-back-to-top {
+    display: grid;
+    place-items: center;
+    position: fixed;
+    right: calc(16px + env(safe-area-inset-right, 0px));
+    bottom: calc(20px + env(safe-area-inset-bottom, 0px));
+    z-index: 25;
+    width: 52px;
+    height: 52px;
+    padding: 0;
+    border: 1px solid #FFFFFF45;
+    border-radius: 50%;
+    background: linear-gradient(145deg, #BB4367, #8F3352);
+    color: #FFFFFF;
+    box-shadow: 0 6px 20px #62203930, inset 0 1px 0 #FFFFFF30;
+    transition: transform .2s ease, box-shadow .2s ease;
+    animation: back-to-top-enter .4s cubic-bezier(.22, 1, .36, 1) both;
+  }
+  .mobile-back-to-top svg { transition: transform .2s ease; }
+  .mobile-back-to-top:active { transform: scale(.92); }
+  .mobile-back-to-top:active svg { transform: translateY(-3px); }
+  .mobile-back-to-top:focus-visible { outline: 3px solid var(--saturated); outline-offset: 4px; }
+  html.dark .mobile-back-to-top {
+    background: linear-gradient(145deg, #FFD3E2, #FC9BBA);
+    color: #432432;
+    box-shadow: 0 6px 24px #00000045, inset 0 1px 0 #FFFFFF60;
+  }
+  @media (hover: hover) {
+    .mobile-back-to-top:hover { transform: translateY(-3px); box-shadow: 0 10px 26px #62203940; }
+    .mobile-back-to-top:hover svg { transform: translateY(-2px); }
+    .mobile-back-to-top:active { transform: scale(.92); }
+  }
+}
+@keyframes back-to-top-enter {
+  from { opacity: 0; translate: 0 12px; }
+  to { opacity: 1; translate: 0 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .mobile-back-to-top, .mobile-back-to-top svg {
+    animation: none;
+    transition: none;
+    transform: none !important;
+  }
+}
+
+/* Paint the browser canvas too, so mobile overscroll never reveals white. */
+html { background-color: var(--blush); }
+@media (max-width: 1100px) {
+  html, body { overscroll-behavior-y: none; }
+  body { min-height: 100svh; }
+}
+
 /* Keep the complete landing illustration beside the copy, without cropping. */
 .clinical-hero-media {
   display: grid;
