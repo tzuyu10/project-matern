@@ -27,6 +27,7 @@ export default function About() {
       <h2>About the project</h2>
       <p>Ang Project M.A.T.E.R.N., o Maternal Awareness Through Effective Resource and Nursing Education, ay isang Plan-Do-Study-Act (PDSA) project na binuo ng mga nursing student ng Trinity University of Asia bilang bahagi ng asignaturang Nursing Leadership and Management.</p>
       <p>Layunin ng aming proyekto na magbigay ng kapaki-pakinabang at madaling maunawaang impormasyon tungkol sa kalusugan ng ina para sa mga buntis. Sa pamamagitan ng website na ito, nais naming makatulong sa mga ina na magkaroon ng sapat na kaalaman at maging mas handa sa bawat yugto ng kanilang pagbubuntis. Bilang mga nursing student, ginagamit namin ang aming kaalaman upang makapagbigay ng health education na maaaring maging gabay ng mga ina sa kanilang paglalakbay.</p>
+      <p>Ang lahat ng nilalaman sa aming Project M.A.T.E.R.N. website ay isinuri at ikinonsulta kay Ginang Remedios H. Fernando, RN, EdD, upang matiyak ang katumpakan ng mga impormasyong nakapaloob dito para sa ating mga ina.</p>
     </section>
 
     <section className="team-section">

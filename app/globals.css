@@ -318,6 +318,8 @@ html.dark .clinical-hero-copy .button:hover { background: #FFD3E2; }
   .contents-other a { display: flex; align-items: center; min-height: 44px; }
 }
 .content-list-label { color: var(--berry); font-size: 1em; font-weight: 700; font-style: normal; }
+.approved-sublist { margin-left: 24px; list-style-type: circle; }
+.content-italic { font-style: italic; }
 @media (min-width: 1024px) {
   .topic-grid { grid-template-columns: repeat(5, minmax(0, 1fr)); }
 }

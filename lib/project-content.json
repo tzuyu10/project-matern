@@ -203,23 +203,32 @@
             },
             {
               "type": "listItem",
-              "text": "Complete Blood Count (CBC): Pagsusuri sa dugo para sa anemia o impeksyon."
+              "text": "Pagsusuri sa dugo para sa anemia o impeksyon.",
+              "label": "Complete Blood Count (CBC)"
             },
             {
               "type": "listItem",
-              "text": "Blood Type at Rh Factor: Para malaman kung katugma ang dugo ng ina at sanggol sa sinapupunan."
+              "text": "Para malaman kung katugma ang dugo ng ina at sanggol sa sinapupunan.",
+              "label": "Blood Type at Rh Factor"
             },
             {
               "type": "listItem",
-              "text": "Infection Screening: Pagsusuri sa mga impeksyon na maaaring maipasa sa sanggol sa sinapupunan."
+              "text": "Pagsusuri sa mga impeksyon na maaaring maipasa sa sanggol sa sinapupunan.",
+              "label": "Infection Screening"
+            },
+            {
+              "type": "subItem",
+              "text": "Halimbawa: Hepatitis B, Syphilis, Human immunodeficiency virus (HIV), pantal, iba pang Sexually Transmitted Diseases (STIs)"
             },
             {
               "type": "listItem",
-              "text": "Urine Tests: Pagsusuri sa ihi para sa UTI, protina, o asukal."
+              "text": "Pagsusuri sa ihi para sa UTI, protina, o asukal.",
+              "label": "Urine Tests"
             },
             {
               "type": "listItem",
-              "text": "Ultrasound: Pag-check sa paglaki, posisyon, at kalagayan ng sanggol sa sinapupunan."
+              "text": "Pag-check sa paglaki, posisyon, at kalagayan ng sanggol sa sinapupunan.",
+              "label": "Ultrasound"
             },
             {
               "type": "heading",
@@ -282,6 +291,32 @@
             {
               "type": "listItem",
               "text": "Gamot at Supplements: Huwag uminom ng anumang gamot, bitamina, o herbal nang walang payo ng doktor o midwife."
+            },
+            {
+              "type": "heading",
+              "text": "Kalagayang Panlipunan at Pang-ekonomiya o Socioeconomic Factors",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Magplano ng gastusin para sa prenatal checkup, gamot, nutrisyon, at panganganak.",
+              "label": "Pinansyal na kakayahan"
+            },
+            {
+              "type": "listItem",
+              "text": "Iwasan ang mga gawaing maaaring hindi makabuti sa kalusugan ng ina at sanggol at alamin ang mga karapatan at benepisyo ng buntis sa lugar ng trabaho.",
+              "label": "Trabaho at kaligtasan"
+            },
+            {
+              "type": "listItem",
+              "text": "Alamin ang mga pinakamalapit na health center, ospital, at programang maaaring makatulong sa abot-kayang serbisyong pangkalusugan.",
+              "label": "Access sa serbisyong pangkalusugan"
+            },
+            {
+              "type": "listItem",
+              "text": "Humingi ng tulong sa pamilya o ibang taong pinagkakatiwalaan para sa emosyonal, pinansyal, at praktikal na pangangailangan habang nagbubuntis.",
+              "label": "Suporta ng pamilya"
             }
           ]
         },
@@ -523,6 +558,10 @@
             },
             {
               "type": "listItem",
+              "text": "Biglaang sobrang paglikot o hindi pangkaraniwang paggalaw ng sanggol, lalo na kung sinusundan ng pagbaba o pagkawala ng galaw, ay dapat ipaalam agad sa healthcare provider."
+            },
+            {
+              "type": "listItem",
               "text": "Mga senyales ng maagang paglabas ng sanggol sa sinapupunan (Preterm labor): Hilab ng sinapupunan, pamimilipit o cramps, patuloy o paulit-ulit na sakit sa ibabang bahagi ng likod, mabigat na pakiramdam sa balakang (pelvic pressure), at malabnaw na likidong lumalabas sa puwerta"
             }
           ]
@@ -537,11 +576,11 @@
             },
             {
               "type": "paragraph",
-              "text": "Murray, S. S., McKinney, E. S., Holub, K. S., & Jones, R. (2019). Foundations of Maternal-newborn and Women's Health Nursing. Elsevier."
+              "text": "UNICEF. (2026, July 22). Your second trimester guide. https://www.unicef.org/uzbekistan/en/stories/your-second-trimester-guide"
             },
             {
               "type": "paragraph",
-              "text": "UNICEF. (2026, July 22). Your second trimester guide. https://www.unicef.org/uzbekistan/en/stories/your-second-trimester-guide"
+              "text": "Murray, S. S., McKinney, E. S., Holub, K. S., & Jones, R. (2023). Foundations of Maternal-newborn and Women's Health Nursing. Elsevier."
             },
             {
               "type": "heading",
@@ -946,7 +985,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Murray, S. S., McKinney, E. S., Holub, K. S., & Jones, R. (2019). Foundations of Maternal-newborn and Women's Health Nursing. Elsevier."
+              "text": "Murray, S. S., McKinney, E. S., Holub, K. S., & Jones, R. (2023). Foundations of Maternal-newborn and Women's Health Nursing. Elsevier."
             },
             {
               "type": "paragraph",
@@ -977,6 +1016,10 @@
             {
               "type": "paragraph",
               "text": "https://share.google/images/G5CCeCq0KPavsJTZz"
+            },
+            {
+              "type": "paragraph",
+              "text": "Magnific. (n.d.). www.magnific.com. https://share.google/ASl3sKpOHy5xaRoli"
             }
           ]
         }
@@ -1002,8 +1045,12 @@
               "text": "Asahan ang pagdurugo o lochia pagkatapos manganak at alamin kung ano ang normal at hindi normal."
             },
             {
+              "type": "subItem",
+              "text": "Lochia - vaginal discharge na lumalabas pagkatapos manganak na binubuo ng dugo at iba pang laman mula sa matres."
+            },
+            {
               "type": "listItem",
-              "text": "Panatilihing malinis ang sugat sa perineum o cesarean incision kung mayroon."
+              "text": "Panatilihing malinis ang sugat sa perineum (pagitan ng ari at puwit) o cesarean incision (hiwa sa tiyan at matres na ginawa para mailabas ang sanggol) kung mayroon."
             },
             {
               "type": "listItem",
@@ -1015,7 +1062,7 @@
             },
             {
               "type": "listItem",
-              "text": "Dumalo sa nakatakdang postpartum check-up upang masuri ang paggaling ng ina."
+              "text": "Dumalo sa nakatakdang postpartum checkup upang masuri ang paggaling ng ina."
             },
             {
               "type": "heading",
@@ -1037,7 +1084,7 @@
             },
             {
               "type": "listItem",
-              "text": "Magpatingin sa health center o ospital para sa postnatal check-up"
+              "text": "Magpatingin sa health center o ospital para sa postnatal checkup"
             },
             {
               "type": "heading",
@@ -1065,11 +1112,11 @@
             },
             {
               "type": "listItem",
-              "text": "Panatilihing malinis at mainit ang sanggol"
+              "text": "Panatilihing malinis at panatilihin ang tamang temperatura ng katawan ng sanggol"
             },
             {
               "type": "listItem",
-              "text": "Tiyaking nakasususo nang maayos at regular"
+              "text": "Siguraduhing nakasususo nang maayos at regular"
             },
             {
               "type": "listItem",
@@ -1143,6 +1190,10 @@
           "id": "references",
           "title": "Reference:",
           "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Murray, S. S., McKinney, E. S., Holub, K. S., & Jones, R. (2023). Foundations of Maternal-newborn and Women's Health Nursing. Elsevier."
+            },
             {
               "type": "heading",
               "text": "Image Sources",
@@ -1464,15 +1515,21 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Department of Health, National Nutrition Council. (n.d.). Healthy Beginning Matters: Good Nutrition throughout Pregnancy. https://nnc.gov.ph/mindanao-region/healthy-beginning-matters-good-nutrition-throughout-pregnancy/"
-            },
-            {
-              "type": "paragraph",
               "text": "Diyeta sa Pagbubuntis: Mga Pagkaing Dapat Kain at Iwasan Mga Ospital ng Apollo. (n.d.). Apollo Hospitals. https://www.apollohospitals.com/tl/health-library/pregnancy-diet-foods-to-eat-and-avoid"
             },
             {
               "type": "paragraph",
               "text": "Vinmec International Hospital. (2025, January 25). Nutritional guidelines for the first trimester of pregnancy. Vinmec International Hospital. https://www.vinmec.com/eng/blog/diet-for-the-first-3-months-of-pregnancy-en"
+            },
+            {
+              "type": "heading",
+              "text": "Image Sources",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Healthy Beginning Matters: Good Nutrition throughout Pregnancy. (n.d.). GOVPH. https://nnc.gov.ph/mindanao-region/healthy-beginning-matters-good-nutrition-throughout-pregnancy/"
             }
           ]
         }
@@ -1504,6 +1561,14 @@
             {
               "type": "listItem",
               "text": "51% ng mga Pilipino ay gumagamit ng pills, na siyang pinakakaraniwang paraan ng kontrasepsyon sa Pilipinas."
+            },
+            {
+              "type": "listItem",
+              "text": "Upang maiwasan ang hindi planadong pagbubuntis o ‘teenage pregnancy’, mahalagang malaman ang iba’t ibang paraan ng family planning at kontrasepsyon."
+            },
+            {
+              "type": "listItem",
+              "text": "Mahalagang magkaroon ng iisang sexual partner lamang at alamin ang sexual health status ng iyong partner; gumamit ng condom upang makatulong na mabawasan ang panganib ng sexually transmitted infections (STIs)."
             },
             {
               "type": "heading",
@@ -1624,6 +1689,16 @@
             {
               "type": "listItem",
               "text": "Isang paraan ng kontrasepsyon na inilalagay ng healthcare professional sa braso ng babae; naglalabas ito ng hormone na progestin upang maiwasan ang pagbubuntis sa loob ng ilang taon"
+            },
+            {
+              "type": "heading",
+              "text": "Birth Control Shot",
+              "level": 3,
+              "italic": false
+            },
+            {
+              "type": "listItem",
+              "text": "Mga peryodikal na injeksyon na pansamantalang hinihinto ang obulasyon"
             },
             {
               "type": "heading",
@@ -2317,7 +2392,8 @@
             },
             {
               "type": "paragraph",
-              "text": "Mapaliwanag na ang mga sumusunod ay inaasahang maranasan ng isang nagdadalang tao na nasa Ikatlong Trimestro ng pagbubuntis:"
+              "text": "Ang mga sumusunod ay inaasahang maranasan ng isang nagdadalang tao na nasa Ikatlong Trimestro ng pagbubuntis:",
+              "italic": true
             },
             {
               "type": "heading",
@@ -2443,6 +2519,14 @@
             {
               "type": "paragraph",
               "text": "Murray, S. S., McKinney, E. S., Holub, K., Jones, R., & Scheffer, K. L. (2023). Foundations of maternal-newborn and women’s health nursing (8th ed.). Elsevier."
+            },
+            {
+              "type": "paragraph",
+              "text": "Amma. (2025, March 25). Can bed rest prevent miscarriage? [2026 Evidence Guide]. amma. https://amma.family/blog/pregnancy/can-bed-rest-prevent-a-miscarriage"
+            },
+            {
+              "type": "paragraph",
+              "text": "Amma. (2025, June 3). Coping with Pregnancy Limitations: 2026 Guide for Moms. amma. https://amma.family/blog/pregnancy/frustration-with-new-limitations"
             },
             {
               "type": "heading",

@@ -2,8 +2,9 @@ import sourceContent from "./project-content.json";
 
 export type ContentBlock =
   | { type: "heading"; text: string; level?: number; italic?: boolean }
-  | { type: "paragraph"; text: string }
+  | { type: "paragraph"; text: string; italic?: boolean }
   | { type: "listItem"; text: string; label?: string }
+  | { type: "subItem"; text: string }
   | { type: "table"; rows: string[][] }
   | { type: "image"; index: number };
 

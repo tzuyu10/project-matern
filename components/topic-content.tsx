@@ -48,9 +48,10 @@ function ContentBlockView({ block, index, topic }: { block: ContentBlock; index:
   if (block.type === "paragraph") {
     const lowerText = block.text.toLowerCase();
     const sourceLine = lowerText.startsWith("photo retrieved from") || lowerText.startsWith("image source");
-    return <p className={sourceLine ? "source-credit" : ""} lang="fil">{renderLinkedText(block.text)}</p>;
+    return <p className={`${sourceLine ? "source-credit " : ""}${block.italic ? "content-italic" : ""}`} lang="fil">{renderLinkedText(block.text)}</p>;
   }
   if (block.type === "listItem") return <ul className="approved-list"><li>{block.label && <strong className="content-list-label">{block.label}: </strong>}{renderLinkedText(block.text)}</li></ul>;
+  if (block.type === "subItem") return <ul className="approved-list approved-sublist"><li>{renderLinkedText(block.text)}</li></ul>;
   if (block.type === "table") return <div className="approved-table-wrap"><table className="approved-table"><tbody>{block.rows.map((row, rowIndex) => <tr key={rowIndex}>{row.map((cell, cellIndex) => <td key={cellIndex}>{renderLinkedText(cell)}</td>)}</tr>)}</tbody></table></div>;
   if (block.type === "image") {
     const imageSource = topic.contentImages[block.index - 1] || topic.cardImage;
