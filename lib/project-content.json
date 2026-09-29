@@ -187,7 +187,7 @@
                 ],
                 [
                   "Paghinga o Respirations",
-                  "Karaniwang nasa 16 hanggang 24 na paghinga bawat minuto habang buntis."
+                  "Ang normal na bilis ng paghinga habang nagbubuntis ay mula 16 hanggang 24 na paghinga bawat minuto"
                 ],
                 [
                   "Temperatura",
@@ -949,7 +949,7 @@
             },
             {
               "type": "heading",
-              "text": "MAHALAGANG PAALALA",
+              "text": "PAALALA",
               "level": 3,
               "italic": false
             },
@@ -967,15 +967,7 @@
             },
             {
               "type": "listItem",
-              "text": "Panatilihing masustansiya ang kainin at tiyaking nakakabuti ito sa buntis at sa bata."
-            },
-            {
-              "type": "table",
-              "rows": [
-                [
-                  "PAALALA"
-                ]
-              ]
+              "text": "Panatilihing masustansiya ang kainin at siguraduhing nakakabuti ito sa buntis at sa bata."
             }
           ]
         },
@@ -1039,6 +1031,14 @@
               "text": "Paghahanda Para sa Sarili Pagkatapos Manganak",
               "level": 3,
               "italic": false
+            },
+            {
+              "type": "image",
+              "index": 1
+            },
+            {
+              "type": "paragraph",
+              "text": "Photo retrieved from Vecteezy. https://www.vecteezy.com/vector-art/7853771-woman-with-a-newborn-baby-mother-shows-care-and-love-for-the-baby-concept-of-motherhood-flat-vector-illustration"
             },
             {
               "type": "listItem",
@@ -1199,6 +1199,10 @@
               "text": "Image Sources",
               "level": 3,
               "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "Vecteezy. (n.d.). Woman with a newborn baby: Mother shows care and love for the baby [Vector illustration]. https://www.vecteezy.com/vector-art/7853771-woman-with-a-newborn-baby-mother-shows-care-and-love-for-the-baby-concept-of-motherhood-flat-vector-illustration"
             }
           ]
         }
@@ -1345,7 +1349,7 @@
               "type": "table",
               "rows": [
                 [
-                  "PAALALA / Sumangguni muna sa inyong OB-GYN bago magsimulang mag-ehersisyo upang matiyak na ligtas ito para sa inyo at sa inyong baby at maiwasan ang anumang posibleng komplikasyon."
+                  "PAALALA\nSumangguni muna sa inyong OB-GYN bago magsimulang mag-ehersisyo upang matiyak na ligtas ito para sa iyo at sa sanggol sa iyong sinapupunan at maiwasan ang anumang posibleng komplikasyon."
                 ]
               ]
             },
@@ -1361,7 +1365,7 @@
             },
             {
               "type": "listItem",
-              "text": "Iwasan ang douching, maglagay ng sabon direkta sa nipples"
+              "text": "Iwasan ang douching, maglagay ng sabon direkta sa utong o nipples"
             },
             {
               "type": "listItem",
@@ -1373,7 +1377,7 @@
             },
             {
               "type": "listItem",
-              "text": "Gumamit ng soft-bristled toothbrush at magsiplyo ng dahan-dahan"
+              "text": "Gumamit ng soft-bristled toothbrush at magsipilyo ng dahan-dahan"
             }
           ]
         },
@@ -1408,12 +1412,12 @@
               "text": "Pagkapagod, at pagbabago ng gana sa pagkain"
             },
             {
-              "type": "listItem",
-              "text": "Morning Sickness / Pagduduwal at Pagsusuka (Nausea/Vomiting)"
+              "type": "heading",
+              "text": "Mga dapat gawin kung nakararanas ng Morning Sickness:"
             },
             {
               "type": "listItem",
-              "text": "Kumain ng maliliit ngunit madalas na pagkain sa halip na malalaking meals."
+              "text": "Kumain nang mas madalas ngunit mas maliliit na pagkain sa halip na malalaking meals."
             },
             {
               "type": "listItem",
@@ -1429,7 +1433,7 @@
             },
             {
               "type": "listItem",
-              "text": "Iwasan ang pritong, mamantika, at maaanghang na pagkain kung nakakapagpalala ito ng pagsusuka."
+              "text": "Iwasan ang mga prito, mamantika, at maaanghang na pagkain dahil nakakapagpalala ito ng pagsusuka."
             },
             {
               "type": "listItem",
@@ -1784,7 +1788,7 @@
               "type": "table",
               "rows": [
                 [
-                  "PAALALA / Ang impormasyong ito ay para lamang sa pangkalahatang edukasyon tungkol sa kalusugan ng ina at family planning. Mas mainam na kumonsulta sa isang healthcare professional bago gumamit, magpalit, o tumigil sa paggamit ng anumang paraan ng kontrasepsiyon."
+                  "PAALALA: Ang impormasyong ito ay para lamang sa pangkalahatang edukasyon tungkol sa kalusugan ng ina at family planning. Mas mainam na kumonsulta sa isang healthcare professional bago gumamit, magpalit, o tumigil sa paggamit ng anumang paraan ng kontrasepsiyon."
                 ]
               ]
             }
@@ -1982,8 +1986,12 @@
               "text": "Regular na umihi at magsagawa ng Kegel exercises."
             },
             {
+              "type": "image",
+              "index": 4
+            },
+            {
               "type": "paragraph",
-              "text": "(insert kegel)"
+              "text": "Photo retrieved from Goel, M. (2024, October 17). Postpartum kegel Exercises: Your Path to Postpartum Recovery - Dr. Madhu Goel. Dr. Madhu Goel. https://drmadhugoel.com/postpartum-kegel-exercises-path-to-recovery/"
             }
           ]
         },
@@ -2163,7 +2171,7 @@
               "type": "table",
               "rows": [
                 [
-                  "PAALALA / Huwag maghintay kung may nararamdamang kakaiba. Kung may matinding pagdurugo, pumutok ang panubigan, nabawasan ang galaw ng sanggol, matinding pananakit ng ulo, malabong paningin, pangingisay, o matinding pananakit ng tiyan, magpatingin agad sa health center o ospital"
+                  "PAALALA: Huwag maghintay kung may nararamdamang kakaiba. Kung may matinding pagdurugo, pumutok ang panubigan, nabawasan ang galaw ng sanggol, matinding pananakit ng ulo, malabong paningin, pangingisay, o matinding pananakit ng tiyan, magpatingin agad sa health center o ospital"
                 ]
               ]
             },
@@ -2189,7 +2197,11 @@
             },
             {
               "type": "paragraph",
-              "text": "stages-pregnancy-conception-child-pregnancy-newborn-healthy-happy-pregnancy_335402-527.jpg (740×296)"
+              "text": "stages-pregnancy-conception-child-pregnancy-newborn-healthy-happy-pregnancy_335402-527.jpg (740×296). https://img.magnific.com/premium-vector/stages-pregnancy-conception-child-pregnancy-newborn-healthy-happy-pregnancy_335402-527.jpg?w=740"
+            },
+            {
+              "type": "paragraph",
+              "text": "Goel, M. (2024, October 17). Postpartum kegel Exercises: Your Path to Postpartum Recovery - Dr. Madhu Goel. Dr. Madhu Goel. https://drmadhugoel.com/postpartum-kegel-exercises-path-to-recovery/"
             }
           ]
         }
@@ -2560,6 +2572,10 @@
           "title": "Overview",
           "blocks": [
             {
+              "type": "paragraph",
+              "text": "Nakasaad sa parteng ito ang mga maaaring itanong ng ina tuwing bibisita sa barangay healthcare center o kapag may konsultasyon sa doktor."
+            },
+            {
               "type": "image",
               "index": 1
             },
@@ -2635,11 +2651,11 @@
             },
             {
               "type": "listItem",
-              "text": "Mayroon bang anumang dapat alalahanin sa pag-unlad ng aking baby?"
+              "text": "Mayroon bang anumang dapat alalahanin sa paglaki ng aking sanggol sa sinapupunan?"
             },
             {
               "type": "listItem",
-              "text": "Maaari ba akong kumuha ng larawan o video ng scan?"
+              "text": "Maaari ba akong kumuha ng larawan o video ng scan ng aking sanggol sa sinapupunan?"
             },
             {
               "type": "listItem",
@@ -2661,11 +2677,11 @@
             },
             {
               "type": "listItem",
-              "text": "Magsisimula ko na bang maramdaman ang paggalaw ni baby sa loob ng tiyan hindi magtatagal?"
+              "text": "Magsisimula ko na bang maramdaman ang paggalaw ng aking sanggol sa sinapupunan?"
             },
             {
               "type": "listItem",
-              "text": "Kailan ko maririnig ang tibok ng puso ng bata?"
+              "text": "Kailan ko maririnig ang tibok ng puso ng aking sanggol sa sinapupunan?"
             },
             {
               "type": "listItem",
@@ -2685,7 +2701,7 @@
             },
             {
               "type": "listItem",
-              "text": "Malaman ko na ba ang kasarian ng baby?"
+              "text": "Malalaman ko na ba ang kasarian ng aking sanggol sa sinapupunan?"
             },
             {
               "type": "listItem",
@@ -2693,15 +2709,15 @@
             },
             {
               "type": "listItem",
-              "text": "Maaayos at ayon ba sa edad ng pagbubuntis ang paglaki ng aking baby?"
+              "text": "Maayos at ayon ba sa edad ng pagbubuntis ang paglaki ng aking anak?"
             },
             {
               "type": "listItem",
-              "text": "Maaari pa ba akong magpa-scan ulit kung gusto kong makitang muli ang baby ko bago ako manganak?"
+              "text": "Maaari pa ba akong magpa-scan ulit kung gusto kong makitang muli ang anak ko bago ako manganak?"
             },
             {
               "type": "listItem",
-              "text": "Kumusta ang paglaki at pag-unlad ng aking baby?"
+              "text": "Kumusta ang paglaki ng sanggol sa aking sinapupunan?"
             },
             {
               "type": "listItem",
@@ -2713,7 +2729,7 @@
             },
             {
               "type": "listItem",
-              "text": "Paano ko malalaman ang mga maagang sintomas ng maagang paglabas ng bata (preterm labor)?"
+              "text": "Paano ko malalaman ang mga maagang sintomas ng maagang panganganak (preterm labor)?"
             },
             {
               "type": "listItem",
@@ -2735,7 +2751,7 @@
             },
             {
               "type": "listItem",
-              "text": "Paano ko mababantayan ang paggalaw ng aking baby, at kailan ako dapat mag-alala kung nabawasan ang paggalaw nito?"
+              "text": "Paano ko mababantayan ang paggalaw ng aking anak, at kailan ako dapat mag-alala kung nabawasan ang paggalaw nito?"
             },
             {
               "type": "listItem",
@@ -2755,11 +2771,11 @@
             },
             {
               "type": "listItem",
-              "text": "Ano ang mga mga senyales ng panganib tulad ng pagdurugo, matinding pananakit ng ulo, panlalabo ng paningin, o matinding pamamaga na kailangan kong ipaalam agad?"
+              "text": "Ano ang mga warning signs tulad ng pagdurugo, matinding pananakit ng ulo, panlalabo ng paningin, o matinding pamamaga na kailangan kong ipaalam agad?"
             },
             {
               "type": "listItem",
-              "text": "Ano ang kasalukuyang posisyon ng aking baby? Nasa tamang posisyon na ba ito para sa panganganak?"
+              "text": "Ano ang kasalukuyang posisyon ng aking sanggol sa sinapupunan? Nasa tamang posisyon na ba ito para sa panganganak?"
             },
             {
               "type": "listItem",
@@ -2795,7 +2811,7 @@
             },
             {
               "type": "listItem",
-              "text": "Paano ako makapaghahanda para sa breastfeeding at pag-aalaga sa aking baby pagkatapos manganak?"
+              "text": "Paano ako makapaghahanda para sa breastfeeding at pag-aalaga sa aking anak pagkatapos manganak?"
             },
             {
               "type": "listItem",
@@ -2803,7 +2819,7 @@
             },
             {
               "type": "listItem",
-              "text": "Gaano kadalas na ang aking prenatal check-up habang papalapit ang aking due date?"
+              "text": "Gaano kadalas ang aking prenatal check-up habang papalapit ang aking due date?"
             },
             {
               "type": "listItem",
@@ -2910,7 +2926,7 @@
               "type": "table",
               "rows": [
                 [
-                  "PAALALA / MAGTANONG sa inyong BHS kung ano ang kanilang mga serbisyo. Maaaring magkaiba ang mga serbisyong available sa bawat barangay. / DUMALO sa iyong regular na prenatal check-up. / ITAGO ang iyong mga prenatal records at mahahalagang dokumento. / MAGPATINGIN AGAD kung makaranas ng anumang emergency habang BUNTIS."
+                  "PAALALA: MAGTANONG sa inyong BHS kung ano ang kanilang mga serbisyo. Maaaring magkaiba ang mga serbisyong available sa bawat barangay. DUMALO sa iyong regular na prenatal check-up. ITAGO ang iyong mga prenatal records at mahahalagang dokumento. MAGPATINGIN AGAD kung makaranas ng anumang emergency habang BUNTIS."
                 ]
               ]
             }
